@@ -1,0 +1,437 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 26,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 27,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 28,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 29,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 30,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 31,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 32,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 33,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 34,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 35,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 36,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 37,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 38,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 39,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 40,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 41,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 42,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 43,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 44,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 45,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 46,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 47,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 48,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 49,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 50,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 51,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 52,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 53,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 54,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 55,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 56,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 57,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 58,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 59,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 60,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 61,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 62,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 63,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 64,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 65,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 66,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 67,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 68,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 69,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 70,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 71,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 72,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 73,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 74,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 75,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 76,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 77,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 78,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 79,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 80,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 81,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 82,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 83,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 84,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 85,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 86,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 87,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 88,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 89,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 90,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 91,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 92,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 93,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 94,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 95,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 96,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 97,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 98,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 99,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 100,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 101,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 102,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 103,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 104,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 105,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 106,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 107,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 108,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 109,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 110,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 111,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 112,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 113,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 114,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 115,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 116,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 117,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 118,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 119,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 120,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 121,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 122,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 123,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 124,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 125,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 126,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 127,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 128,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 129,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 130,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 131,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 132,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 133,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 134,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 135,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 136,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 137,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 138,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 139,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 140,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 141,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 142,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 143,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 144,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 145,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 146,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 147,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 148,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 149,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 150,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 151,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 152,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 153,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 154,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 155,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 156,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 157,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 158,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 159,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 160,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 161,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 162,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 163,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 164,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 165,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 166,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 167,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 168,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 169,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 170,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 171,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 172,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 173,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 174,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 175,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 176,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 177,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 178,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 179,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 180,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 181,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 182,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 183,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 184,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 185,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 186,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 187,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 188,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 189,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 190,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 191,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 192,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 193,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 194,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 195,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 196,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 197,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 198,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 199,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 200,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 201,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 202,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 203,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 204,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 205,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 206,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 207,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 208,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 209,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 210,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 211,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 212,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 213,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 214,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 215,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 216,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 217,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 218,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 219,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 220,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 221,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 222,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 223,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 224,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 225,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 226,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 227,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 228,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 229,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 230,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 231,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 232,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 233,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 234,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 235,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 236,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 237,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 238,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 239,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 240,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 241,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 242,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 243,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 244,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 245,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 246,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 247,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 248,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 249,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 250,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 251,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 252,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 253,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 254,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 255,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 256,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 257,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 258,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 259,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 260,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 261,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 262,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 263,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 264,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 265,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 266,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 267,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 268,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 269,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 270,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 271,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 272,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 273,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 274,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 275,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 276,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 277,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 278,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 279,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 280,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 281,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 282,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 283,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 284,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 285,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 286,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 287,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 288,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 289,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 290,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 291,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 292,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 293,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 294,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 295,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 296,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 297,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 298,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 299,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 300,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 301,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 302,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 303,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 304,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 305,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 306,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 307,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 308,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 309,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 310,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 311,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 312,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 313,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 314,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 315,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 316,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 317,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 318,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 319,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 320,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 321,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 322,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 323,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 324,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 325,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 326,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 327,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 328,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 329,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 330,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 331,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 332,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 333,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 334,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 335,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 336,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 337,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 338,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 339,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 340,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 341,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 342,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 343,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 344,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 345,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 346,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 347,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 348,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 349,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 350,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 351,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 352,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 353,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 354,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 355,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 356,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 357,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 358,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 359,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 360,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 361,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 362,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 363,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 364,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 365,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 366,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 367,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 368,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 369,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 370,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 371,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 372,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 373,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 374,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 375,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 376,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 377,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 378,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 379,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 380,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 381,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 382,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 383,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 384,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 385,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 386,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 387,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 388,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 389,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 390,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 391,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 392,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 393,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 394,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 395,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 396,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 397,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 398,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 399,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 400,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 401,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 402,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 403,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 404,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 405,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 406,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 407,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 408,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 409,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 410,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 411,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad Sucursal 412,Nuevo León,Global / Elite,"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur Sucursal 413,Nuevo León,Global / Elite,"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Hospital Puerta de Hierro Zapopan Sucursal 414,Jalisco,Global / Elite,"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier Sucursal 415,Jalisco,Global / Elite,"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José Sucursal 416,Jalisco,Global / Elite,"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Ángeles Puebla Sucursal 417,Puebla,Global / Elite,"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Star Médica Querétaro Sucursal 418,Querétaro,Global / Elite,"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati Sucursal 419,Querétaro,Global / Elite,"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León Sucursal 420,Guanajuato,Global / Elite,"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León Sucursal 421,Guanajuato,Global / Elite,"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia Sucursal 422,Quintana Roo,Global / Elite,"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida Sucursal 423,Yucatán,Global / Elite,"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana Sucursal 424,Baja California,Global / Elite,"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua Sucursal 425,Chihuahua,Global / Elite,"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur Sucursal 426,Ciudad de México,Global / Elite,"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español Sucursal 427,Ciudad de México,Global / Elite,"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal Sucursal 428,Ciudad de México,Global / Elite,"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México Sucursal 429,Ciudad de México,Global / Elite,"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec Sucursal 430,Ciudad de México,Global / Elite,"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde Sucursal 431,Ciudad de México,Global / Elite,"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Corporativo Hospital Satélite Sucursal 432,Estado de México,Global / Elite,"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes Sucursal 433,Estado de México,Global / Elite,"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas Sucursal 434,Estado de México,Global / Elite,"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital Zambrano Hellion TecSalud Sucursal 435,Nuevo León,Global / Elite,"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud Sucursal 436,Nuevo León,Global / Elite,"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
