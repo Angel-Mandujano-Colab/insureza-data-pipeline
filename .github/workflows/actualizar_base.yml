@@ -28,7 +28,7 @@ jobs:
     - name: Ejecutar Pipeline de Actualización Insureza
       run: python pipeline_insureza.py
 
-    - name: Commit y actualización automática de la Base Maestra
+    - name: Subir cambios automáticamente
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "Auto-update Base Maestra Nacional (Insureza Bot)"
