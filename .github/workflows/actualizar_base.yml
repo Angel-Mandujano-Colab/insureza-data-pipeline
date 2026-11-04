@@ -5,7 +5,6 @@ on:
     - cron: '0 12 * * *'
   workflow_dispatch:
 
-# Otorgar permisos explícitos de lectura y escritura al token de GitHub
 permissions:
   contents: write
 
@@ -33,7 +32,7 @@ jobs:
       run: |
         git config --global user.name 'Insureza Automation Bot'
         git config --global user.email 'bot@insureza.internal'
+        git pull origin main --rebase || echo "Sin cambios remotos que sincronizar"
         git add insureza_base_maestra_nacional.csv
-        # Si no hay cambios nuevos, el comando git commit regresa código 0 sin fallar
         git commit -m "Auto-update Base Maestra Nacional: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-        git push || echo "Push skipped or up to date"
+        git push origin main
