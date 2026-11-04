@@ -5,9 +5,6 @@ on:
     - cron: '0 12 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,8 +25,8 @@ jobs:
     - name: Ejecutar Pipeline de Actualización Insureza
       run: python pipeline_insureza.py
 
-    - name: Subir cambios automáticamente
-      uses: stefanzweifel/git-auto-commit-action@v4
+    - name: Guardar Base Maestra como Artifact en la Nube
+      uses: actions/upload-artifact@v3
       with:
-        commit_message: "Auto-update Base Maestra Nacional (Insureza Bot)"
-        file_pattern: insureza_base_maestra_nacional.csv
+        name: insureza-base-maestra-nacional
+        path: insureza_base_maestra_nacional.csv
