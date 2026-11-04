@@ -15,9 +15,6 @@ jobs:
     steps:
     - name: Clonar repositorio
       uses: actions/checkout@v3
-      with:
-        persist-credentials: true
-        fetch-depth: 0
 
     - name: Configurar Python
       uses: actions/setup-python@v4
@@ -31,13 +28,8 @@ jobs:
     - name: Ejecutar Pipeline de Actualización Insureza
       run: python pipeline_insureza.py
 
-    - name: Guardar y actualizar la Base Maestra en el repositorio
-      run: |
-        git config --global user.name 'Insureza Automation Bot'
-        git config --global user.email 'bot@insureza.internal'
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-        git fetch origin main
-        git pull origin main --rebase --autostash || echo "No hay cambios previos que fusionar"
-        git add insureza_base_maestra_nacional.csv
-        git commit -m "Auto-update Base Maestra Nacional: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No hay cambios nuevos"
-        git push origin main
+    - name: Commit y actualización automática de la Base Maestra
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Auto-update Base Maestra Nacional (Insureza Bot)"
+        file_pattern: insureza_base_maestra_nacional.csv
