@@ -36,12 +36,18 @@ def procesar_pipeline():
         
     # Consolidar todas las aseguradoras
     df_maestro = pd.concat(dfs, ignore_index=True)
-    print(f"📊 Total combinado bruto antes de limpiar duplicados internos: {len(df_maestro)} registros.")
+    print(f"📊 Total combinado bruto: {len(df_maestro)} registros.")
     
-    # Limpiar duplicados internos exactos (filas 100% repetidas que venían en los CSVs originales)
-    df_maestro = df_maestro.drop_duplicates(keep='first')
+    # Rellenar nulos temporalmente solo para las columnas clave de control de duplicados
+    for col in ['Hospital_Nombre', 'Aseguradora']:
+        if col in df_maestro.columns:
+            df_maestro[col] = df_maestro[col].fillna('').astype(str).str.strip()
+
+    # Desduplicación quirúrgica: solo elimina si el mismo hospital se repite dentro de la MISMA aseguradora
+    columnas_control = ['Hospital_Nombre', 'Aseguradora']
+    df_maestro = df_maestro.drop_duplicates(subset=columnas_control, keep='first')
     
-    print(f"🎯 Total final limpio y sin duplicados de origen: {len(df_maestro)} registros.")
+    print(f"🎯 Total final limpio y sin duplicados por aseguradora: {len(df_maestro)} registros.")
     
     # Exportar archivo definitivo a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
