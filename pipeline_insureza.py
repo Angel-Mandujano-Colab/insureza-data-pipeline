@@ -36,13 +36,27 @@ def procesar_pipeline():
         
     # Consolidar todas las aseguradoras
     df_maestro = pd.concat(dfs, ignore_index=True)
+    print(f"📊 Total combinado bruto: {len(df_maestro)} registros.")
     
-    # Desduplicación segura: solo elimina si se repite exactamente el mismo hospital, dirección y aseguradora
-    columnas_seguras = [col for col in ['Hospital_Nombre', 'Direccion', 'Aseguradora'] if col in df_maestro.columns]
-    if columnas_seguras:
-        df_maestro = df_maestro.drop_duplicates(subset=columnas_seguras, keep='first')
+    # TRUCO DE INGENIERÍA: Rellenar temporalmente las direcciones vacías con un ID único por fila
+    # para que Pandas no fusione erróneamente los hospitales sin dirección registrada.
+    if 'Direccion' in df_maestro.columns:
+        df_maestro['Direccion_Clean'] = df_maestro['Direccion'].fillna('').astype(str).str.strip()
+        mask_vacios = df_maestro['Direccion_Clean'] == ''
+        df_maestro.loc[mask_vacios, 'Direccion_Clean'] = 'SIN_DIR_' + df_maestro.index.astype(str)
+    else:
+        df_maestro['Direccion_Clean'] = 'SIN_DIR_' + df_maestro.index.astype(str)
 
-    print(f"🎯 Total final consolidado y limpio: {len(df_maestro)} registros.")
+    # Desduplicación segura utilizando la dirección limpia
+    columnas_seguras = ['Hospital_Nombre', 'Direccion_Clean', 'Aseguradora']
+    columnas_existentes = [col for col in columnas_seguras if col in df_maestro.columns]
+    
+    df_maestro = df_maestro.drop_duplicates(subset=columnas_existentes, keep='first')
+    
+    # Eliminar la columna temporal antes de exportar
+    df_maestro = df_maestro.drop(columns=['Direccion_Clean'])
+
+    print(f"🎯 Total final consolidado, limpio y protegido: {len(df_maestro)} registros.")
     
     # Exportar archivo limpio a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
