@@ -4,12 +4,11 @@ import re
 def limpiar_nombre_hospital(nombre):
     if pd.isna(nombre):
         return ""
-    # Eliminar sufijos sintéticos tipo 'Sucursal 12', 'Sucursal 26', etc.
+    # Eliminar sufijos sintéticos tipo 'Sucursal 1', 'Sucursal 26', etc.
     nombre_limpio = re.sub(r'\s+Sucursal\s+\d+', '', str(nombre), flags=re.IGNORECASE)
     return nombre_limpio.strip()
 
 def procesar_pipeline():
-    # Lista de archivos de aseguradoras
     archivos = [
         'insureza_red_axa_definitivo.csv',
         'insureza_red_gnp_definitivo.csv',
@@ -35,11 +34,16 @@ def procesar_pipeline():
     # Consolidar todas las aseguradoras
     df_maestro = pd.concat(dfs, ignore_index=True)
     
-    # 1. Limpiar nombres de hospitales (remover 'Sucursal X')
+    # 1. Limpiar nombres de hospitales
     if 'Hospital_Nombre' in df_maestro.columns:
         df_maestro['Hospital_Nombre'] = df_maestro['Hospital_Nombre'].apply(limpiar_nombre_hospital)
         
-    # 2. Desduplicar registros idénticos por Aseguradora, Hospital y Dirección
+    # 2. Rellenar valores nulos para evitar que Pandas colapse registros vacíos
+    for col in ['Hospital_Nombre', 'Direccion', 'Aseguradora']:
+        if col in df_maestro.columns:
+            df_maestro[col] = df_maestro[col].fillna('').astype(str).str.strip()
+
+    # 3. Desduplicar de forma segura manteniendo los registros completos
     columnas_clave = ['Hospital_Nombre', 'Direccion', 'Aseguradora']
     columnas_existentes = [col for col in columnas_clave if col in df_maestro.columns]
     
@@ -47,7 +51,7 @@ def procesar_pipeline():
     
     # Exportar archivo limpio a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
-    print("Base Maestra Nacional consolidada y desduplicada con éxito.")
+    print(f"Base Maestra consolidada con éxito. Total de registros finales: {len(df_maestro)}")
 
 if __name__ == "__main__":
     procesar_pipeline()
