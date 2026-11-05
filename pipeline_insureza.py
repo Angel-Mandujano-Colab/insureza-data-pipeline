@@ -23,12 +23,10 @@ def procesar_pipeline():
     for archivo in archivos:
         try:
             df = pd.read_csv(archivo)
-            # Limpiar nombre y filtrar filas sin nombre de hospital válido
             if 'Hospital_Nombre' in df.columns:
                 df['Hospital_Nombre'] = df['Hospital_Nombre'].apply(limpiar_nombre_hospital)
-                df = df[df['Hospital_Nombre'] != '']
             
-            print(f"✅ CARGADO Y FILTRADO: {archivo} con {len(df)} registros válidos.")
+            print(f"✅ CARGADO: {archivo} con {len(df)} registros.")
             dfs.append(df)
         except Exception as e:
             print(f"⚠️ NO ENCONTRADO O ERROR en {archivo}: {e}")
@@ -36,15 +34,14 @@ def procesar_pipeline():
     if not dfs:
         raise ValueError("No se pudieron cargar los archivos base.")
         
-    # Consolidar todas las aseguradoras
+    # Consolidar todas las aseguradoras sin alterar el volumen
     df_maestro = pd.concat(dfs, ignore_index=True)
     print(f"📊 Total combinado de todas las aseguradoras: {len(df_maestro)} registros.")
     
-    # Desduplicación segura basada en nombre, dirección y aseguradora (evitando que los nulos colapsen todo)
-    columnas_clave = [col for col in ['Hospital_Nombre', 'Direccion', 'Aseguradora'] if col in df_maestro.columns]
-    df_maestro = df_maestro.drop_duplicates(subset=columnas_clave, keep='first')
+    # Opcional: Solo eliminar duplicados si la fila es 100% idéntica en todas sus columnas
+    df_maestro = df_maestro.drop_duplicates(keep='first')
     
-    print(f"🎯 Total final tras limpieza y desduplicación segura: {len(df_maestro)} registros.")
+    print(f"🎯 Total final consolidado: {len(df_maestro)} registros.")
     
     # Exportar archivo limpio a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
