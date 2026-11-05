@@ -34,16 +34,11 @@ def procesar_pipeline():
     if not dfs:
         raise ValueError("No se pudieron cargar los archivos base.")
         
-    # Consolidar todas las aseguradoras sin alterar el volumen
+    # Consolidar todas las aseguradoras manteniendo la totalidad de la red
     df_maestro = pd.concat(dfs, ignore_index=True)
-    print(f"📊 Total combinado de todas las aseguradoras: {len(df_maestro)} registros.")
-    
-    # Opcional: Solo eliminar duplicados si la fila es 100% idéntica en todas sus columnas
-    df_maestro = df_maestro.drop_duplicates(keep='first')
-    
     print(f"🎯 Total final consolidado: {len(df_maestro)} registros.")
     
-    # Exportar archivo limpio a la raíz
+    # Exportar archivo maestro completo a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
 
 if __name__ == "__main__":
