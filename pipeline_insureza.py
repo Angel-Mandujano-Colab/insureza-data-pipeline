@@ -29,16 +29,22 @@ def procesar_pipeline():
             print(f"✅ CARGADO: {archivo} con {len(df)} registros.")
             dfs.append(df)
         except Exception as e:
-            print(f"⚠️ NO ENCONTRADO O ERROR en {archivo}: {e}")
+            print(f"⚠️ NO ENCONTRADO O ERROR en {archivo}: {eyczne}")
             
     if not dfs:
         raise ValueError("No se pudieron cargar los archivos base.")
         
-    # Consolidar todas las aseguradoras manteniendo la totalidad de la red
+    # Consolidar todas las aseguradoras
     df_maestro = pd.concat(dfs, ignore_index=True)
-    print(f"🎯 Total final consolidado: {len(df_maestro)} registros.")
     
-    # Exportar archivo maestro completo a la raíz
+    # Desduplicar asegurando que un mismo hospital con la misma dirección no se repita innecesariamente
+    columnas_unicas = [col for col in ['Hospital_Nombre', 'Direccion'] if col in df_maestro.columns]
+    if columnas_unicas:
+        df_maestro = df_maestro.drop_duplicates(subset=columnas_unicas, keep='first')
+
+    print(f"🎯 Total final único de hospitales: {len(df_maestro)} registros.")
+    
+    # Exportar archivo limpio a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
 
 if __name__ == "__main__":
