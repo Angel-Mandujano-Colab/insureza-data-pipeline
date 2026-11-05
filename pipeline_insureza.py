@@ -39,17 +39,11 @@ def procesar_pipeline():
     if 'Hospital_Nombre' in df_maestro.columns:
         df_maestro['Hospital_Nombre'] = df_maestro['Hospital_Nombre'].apply(limpiar_nombre_hospital)
         
-    # 2. Rellenar nulos para evitar colapsos
-    for col in ['Hospital_Nombre', 'Direccion', 'Aseguradora']:
-        if col in df_maestro.columns:
-            df_maestro[col] = df_maestro[col].fillna('').astype(str).str.strip()
-
-    # 3. Desduplicar
-    columnas_clave = ['Hospital_Nombre', 'Direccion', 'Aseguradora']
-    columnas_existentes = [col for col in columnas_clave if col in df_maestro.columns]
+    # 2. Eliminar únicamente duplicados exactos donde TODA la fila sea idéntica
+    # Esto evita que las direcciones en blanco colapsen la base de datos
+    df_maestro = df_maestro.drop_duplicates(keep='first')
     
-    df_maestro = df_maestro.drop_duplicates(subset=columnas_existentes, keep='first')
-    print(f"🎯 Total final tras limpieza y desduplicación: {len(df_maestro)} registros.")
+    print(f"🎯 Total final tras limpieza y desduplicación segura: {len(df_maestro)} registros.")
     
     # Exportar archivo limpio a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
