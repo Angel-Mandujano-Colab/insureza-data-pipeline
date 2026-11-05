@@ -4,7 +4,6 @@ import re
 def limpiar_nombre_hospital(nombre):
     if pd.isna(nombre):
         return ""
-    # Eliminar sufijos sintéticos tipo 'Sucursal 1', 'Sucursal 26', etc.
     nombre_limpio = re.sub(r'\s+Sucursal\s+\d+', '', str(nombre), flags=re.IGNORECASE)
     return nombre_limpio.strip()
 
@@ -35,11 +34,14 @@ def procesar_pipeline():
     if not dfs:
         raise ValueError("No se pudieron cargar los archivos base.")
         
-    # Consolidar todas las aseguradoras en un solo bloque maestro
+    # Consolidar todas las aseguradoras
     df_maestro = pd.concat(dfs, ignore_index=True)
+    print(f"📊 Total combinado bruto antes de limpiar duplicados internos: {len(df_maestro)} registros.")
     
-    # FORZAR TOTALIDAD: Sin drop_duplicates, garantizamos los 3,145 registros puros
-    print(f"🎯 Total final consolidado sin filtros restrictivos: {len(df_maestro)} registros.")
+    # Limpiar duplicados internos exactos (filas 100% repetidas que venían en los CSVs originales)
+    df_maestro = df_maestro.drop_duplicates(keep='first')
+    
+    print(f"🎯 Total final limpio y sin duplicados de origen: {len(df_maestro)} registros.")
     
     # Exportar archivo definitivo a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
