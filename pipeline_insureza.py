@@ -23,7 +23,12 @@ def procesar_pipeline():
     for archivo in archivos:
         try:
             df = pd.read_csv(archivo)
-            print(f"✅ CARGADO: {archivo} con {len(df)} registros.")
+            # Limpiar nombre y filtrar filas sin nombre de hospital válido
+            if 'Hospital_Nombre' in df.columns:
+                df['Hospital_Nombre'] = df['Hospital_Nombre'].apply(limpiar_nombre_hospital)
+                df = df[df['Hospital_Nombre'] != '']
+            
+            print(f"✅ CARGADO Y FILTRADO: {archivo} con {len(df)} registros válidos.")
             dfs.append(df)
         except Exception as e:
             print(f"⚠️ NO ENCONTRADO O ERROR en {archivo}: {e}")
@@ -35,13 +40,9 @@ def procesar_pipeline():
     df_maestro = pd.concat(dfs, ignore_index=True)
     print(f"📊 Total combinado de todas las aseguradoras: {len(df_maestro)} registros.")
     
-    # 1. Limpiar nombres de hospitales
-    if 'Hospital_Nombre' in df_maestro.columns:
-        df_maestro['Hospital_Nombre'] = df_maestro['Hospital_Nombre'].apply(limpiar_nombre_hospital)
-        
-    # 2. Eliminar únicamente duplicados exactos donde TODA la fila sea idéntica
-    # Esto evita que las direcciones en blanco colapsen la base de datos
-    df_maestro = df_maestro.drop_duplicates(keep='first')
+    # Desduplicación segura basada en nombre, dirección y aseguradora (evitando que los nulos colapsen todo)
+    columnas_clave = [col for col in ['Hospital_Nombre', 'Direccion', 'Aseguradora'] if col in df_maestro.columns]
+    df_maestro = df_maestro.drop_duplicates(subset=columnas_clave, keep='first')
     
     print(f"🎯 Total final tras limpieza y desduplicación segura: {len(df_maestro)} registros.")
     
