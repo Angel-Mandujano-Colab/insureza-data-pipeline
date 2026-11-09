@@ -4,8 +4,6 @@ import re
 def limpiar_nombre_hospital(nombre):
     if pd.isna(nombre):
         return ""
-    nombre_limpio = re.sub(r'\s+Sucursal\s+\ద+', '', str(nombre), flags=re.IGNORECASE)
-    # Corrección de expresión regular segura para sufijos 'Sucursal X'
     nombre_limpio = re.sub(r'\s+Sucursal\s+\d+', '', str(nombre), flags=re.IGNORECASE)
     return nombre_limpio.strip()
 
@@ -25,40 +23,29 @@ def procesar_pipeline():
     for archivo in archivos:
         try:
             df = pd.read_csv(archivo)
+            
+            # 1. Limpiar el nombre del hospital (quitar "Sucursal X")
             if 'Hospital_Nombre' in df.columns:
                 df['Hospital_Nombre'] = df['Hospital_Nombre'].apply(limpiar_nombre_hospital)
             
-            print(f"✅ CARGADO: {archivo} con {len(df)} registros.")
-            dfs.append(df)
+            # 2. Limpiar duplicados INTERNOS de este archivo específico (adiós a la basura repetida de origen)
+            df_limpio = df.drop_duplicates(keep='first')
+            
+            print(f"✅ CARGADO Y LIMPIO: {archivo} (Original: {len(df)} | Sin duplicados internos: {len(df_limpio)})")
+            dfs.append(df_limpio)
+            
         except Exception as e:
             print(f"⚠️ NO ENCONTRADO O ERROR en {archivo}: {e}")
             
     if not dfs:
         raise ValueError("No se pudieron cargar los archivos base.")
         
-    # Consolidar todas las aseguradoras
+    # Consolidar todas las aseguradoras ya limpias individualmente
     df_maestro = pd.concat(dfs, ignore_index=True)
-    print(f"📊 Total combinado bruto: {len(df_maestro)} registros.")
     
-    # Normalizar textos clave
-    for col in ['Hospital_Nombre', 'Aseguradora']:
-        if col in df_maestro.columns:
-            df_maestro[col] = df_maestro[col].fillna('').astype(str).str.strip()
-
-    # TRUCO DE ORO: Aislar filas con nombres vacíos para que Pandas NUNCA las borre en masa
-    df_maestro['Hospital_Control'] = df_maestro['Hospital_Nombre']
-    mask_vacios = df_maestro['Hospital_Control'] == ''
-    df_maestro.loc[mask_vacios, 'Hospital_Control'] = 'HOSP_VACIO_' + df_maestro.index.astype(str)
-
-    # Desduplicación quirúrgica: limpia duplicados reales por hospital y aseguradora sin tocar los vacíos
-    df_maestro = df_maestro.drop_duplicates(subset=['Hospital_Control', 'Aseguradora'], keep='first')
+    print(f"🎯 Total final consolidado nacional sin duplicados basura: {len(df_maestro)} registros.")
     
-    # Eliminar columna temporal de control
-    df_maestro = df_maestro.drop(columns=['Hospital_Control'])
-    
-    print(f"🎯 Total final limpio y protegido: {len(df_maestro)} registros.")
-    
-    # Exportar archivo definitivo a la raíz
+    # Exportar archivo maestro definitivo a la raíz
     df_maestro.to_csv('insureza_base_maestra_nacional.csv', index=False, encoding='utf-8-sig')
 
 if __name__ == "__main__":
