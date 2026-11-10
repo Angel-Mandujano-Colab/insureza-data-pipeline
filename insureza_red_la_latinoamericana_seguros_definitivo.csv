@@ -1,0 +1,437 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Latino Elite (Nivel A),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español,Ciudad de México,Latino Preferente (Nivel B),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal,Ciudad de México,Latino Esencial (Nivel C),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México,Ciudad de México,Latino Elite (Nivel A),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Latino Preferente (Nivel B),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde,Ciudad de México,Latino Esencial (Nivel C),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite,Estado de México,Latino Elite (Nivel A),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes,Estado de México,Latino Preferente (Nivel B),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas,Estado de México,Latino Esencial (Nivel C),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud,Nuevo León,Latino Elite (Nivel A),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud,Nuevo León,Latino Preferente (Nivel B),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Latino Esencial (Nivel C),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur,Nuevo León,Latino Elite (Nivel A),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan,Jalisco,Latino Preferente (Nivel B),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier,Jalisco,Latino Esencial (Nivel C),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José,Jalisco,Latino Elite (Nivel A),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla,Puebla,Latino Preferente (Nivel B),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro,Querétaro,Latino Esencial (Nivel C),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati,Querétaro,Latino Elite (Nivel A),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia,Quintana Roo,Latino Elite (Nivel A),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida,Yucatán,Latino Preferente (Nivel B),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana,Baja California,Latino Esencial (Nivel C),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua,Chihuahua,Latino Elite (Nivel A),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 26,Ciudad de México,Latino Preferente (Nivel B),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 27,Ciudad de México,Latino Esencial (Nivel C),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 28,Ciudad de México,Latino Elite (Nivel A),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 29,Ciudad de México,Latino Preferente (Nivel B),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 30,Ciudad de México,Latino Esencial (Nivel C),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 31,Ciudad de México,Latino Elite (Nivel A),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 32,Estado de México,Latino Preferente (Nivel B),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 33,Estado de México,Latino Esencial (Nivel C),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 34,Estado de México,Latino Elite (Nivel A),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 35,Nuevo León,Latino Preferente (Nivel B),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 36,Nuevo León,Latino Esencial (Nivel C),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 37,Nuevo León,Latino Elite (Nivel A),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 38,Nuevo León,Latino Preferente (Nivel B),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 39,Jalisco,Latino Esencial (Nivel C),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 40,Jalisco,Latino Elite (Nivel A),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 41,Jalisco,Latino Preferente (Nivel B),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 42,Puebla,Latino Esencial (Nivel C),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 43,Querétaro,Latino Elite (Nivel A),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 44,Querétaro,Latino Preferente (Nivel B),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 45,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 46,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 47,Quintana Roo,Latino Preferente (Nivel B),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 48,Yucatán,Latino Esencial (Nivel C),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 49,Baja California,Latino Elite (Nivel A),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 50,Chihuahua,Latino Preferente (Nivel B),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 51,Ciudad de México,Latino Esencial (Nivel C),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 52,Ciudad de México,Latino Elite (Nivel A),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 53,Ciudad de México,Latino Preferente (Nivel B),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 54,Ciudad de México,Latino Esencial (Nivel C),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 55,Ciudad de México,Latino Elite (Nivel A),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 56,Ciudad de México,Latino Preferente (Nivel B),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 57,Estado de México,Latino Esencial (Nivel C),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 58,Estado de México,Latino Elite (Nivel A),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 59,Estado de México,Latino Preferente (Nivel B),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 60,Nuevo León,Latino Esencial (Nivel C),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 61,Nuevo León,Latino Elite (Nivel A),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 62,Nuevo León,Latino Preferente (Nivel B),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 63,Nuevo León,Latino Esencial (Nivel C),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 64,Jalisco,Latino Elite (Nivel A),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 65,Jalisco,Latino Preferente (Nivel B),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 66,Jalisco,Latino Esencial (Nivel C),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 67,Puebla,Latino Elite (Nivel A),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 68,Querétaro,Latino Preferente (Nivel B),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 69,Querétaro,Latino Esencial (Nivel C),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 70,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 71,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 72,Quintana Roo,Latino Esencial (Nivel C),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 73,Yucatán,Latino Elite (Nivel A),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 74,Baja California,Latino Preferente (Nivel B),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 75,Chihuahua,Latino Esencial (Nivel C),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 76,Ciudad de México,Latino Elite (Nivel A),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 77,Ciudad de México,Latino Preferente (Nivel B),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 78,Ciudad de México,Latino Esencial (Nivel C),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 79,Ciudad de México,Latino Elite (Nivel A),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 80,Ciudad de México,Latino Preferente (Nivel B),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 81,Ciudad de México,Latino Esencial (Nivel C),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 82,Estado de México,Latino Elite (Nivel A),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 83,Estado de México,Latino Preferente (Nivel B),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 84,Estado de México,Latino Esencial (Nivel C),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 85,Nuevo León,Latino Elite (Nivel A),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 86,Nuevo León,Latino Preferente (Nivel B),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 87,Nuevo León,Latino Esencial (Nivel C),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 88,Nuevo León,Latino Elite (Nivel A),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 89,Jalisco,Latino Preferente (Nivel B),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 90,Jalisco,Latino Esencial (Nivel C),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 91,Jalisco,Latino Elite (Nivel A),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 92,Puebla,Latino Preferente (Nivel B),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 93,Querétaro,Latino Esencial (Nivel C),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 94,Querétaro,Latino Elite (Nivel A),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 95,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 96,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 97,Quintana Roo,Latino Elite (Nivel A),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 98,Yucatán,Latino Preferente (Nivel B),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 99,Baja California,Latino Esencial (Nivel C),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 100,Chihuahua,Latino Elite (Nivel A),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 101,Ciudad de México,Latino Preferente (Nivel B),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 102,Ciudad de México,Latino Esencial (Nivel C),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 103,Ciudad de México,Latino Elite (Nivel A),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 104,Ciudad de México,Latino Preferente (Nivel B),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 105,Ciudad de México,Latino Esencial (Nivel C),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 106,Ciudad de México,Latino Elite (Nivel A),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 107,Estado de México,Latino Preferente (Nivel B),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 108,Estado de México,Latino Esencial (Nivel C),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 109,Estado de México,Latino Elite (Nivel A),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 110,Nuevo León,Latino Preferente (Nivel B),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 111,Nuevo León,Latino Esencial (Nivel C),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 112,Nuevo León,Latino Elite (Nivel A),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 113,Nuevo León,Latino Preferente (Nivel B),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 114,Jalisco,Latino Esencial (Nivel C),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 115,Jalisco,Latino Elite (Nivel A),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 116,Jalisco,Latino Preferente (Nivel B),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 117,Puebla,Latino Esencial (Nivel C),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 118,Querétaro,Latino Elite (Nivel A),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 119,Querétaro,Latino Preferente (Nivel B),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 120,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 121,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 122,Quintana Roo,Latino Preferente (Nivel B),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 123,Yucatán,Latino Esencial (Nivel C),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 124,Baja California,Latino Elite (Nivel A),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 125,Chihuahua,Latino Preferente (Nivel B),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 126,Ciudad de México,Latino Esencial (Nivel C),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 127,Ciudad de México,Latino Elite (Nivel A),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 128,Ciudad de México,Latino Preferente (Nivel B),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 129,Ciudad de México,Latino Esencial (Nivel C),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 130,Ciudad de México,Latino Elite (Nivel A),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 131,Ciudad de México,Latino Preferente (Nivel B),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 132,Estado de México,Latino Esencial (Nivel C),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 133,Estado de México,Latino Elite (Nivel A),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 134,Estado de México,Latino Preferente (Nivel B),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 135,Nuevo León,Latino Esencial (Nivel C),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 136,Nuevo León,Latino Elite (Nivel A),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 137,Nuevo León,Latino Preferente (Nivel B),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 138,Nuevo León,Latino Esencial (Nivel C),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 139,Jalisco,Latino Elite (Nivel A),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 140,Jalisco,Latino Preferente (Nivel B),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 141,Jalisco,Latino Esencial (Nivel C),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 142,Puebla,Latino Elite (Nivel A),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 143,Querétaro,Latino Preferente (Nivel B),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 144,Querétaro,Latino Esencial (Nivel C),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 145,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 146,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 147,Quintana Roo,Latino Esencial (Nivel C),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 148,Yucatán,Latino Elite (Nivel A),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 149,Baja California,Latino Preferente (Nivel B),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 150,Chihuahua,Latino Esencial (Nivel C),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 151,Ciudad de México,Latino Elite (Nivel A),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 152,Ciudad de México,Latino Preferente (Nivel B),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 153,Ciudad de México,Latino Esencial (Nivel C),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 154,Ciudad de México,Latino Elite (Nivel A),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 155,Ciudad de México,Latino Preferente (Nivel B),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 156,Ciudad de México,Latino Esencial (Nivel C),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 157,Estado de México,Latino Elite (Nivel A),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 158,Estado de México,Latino Preferente (Nivel B),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 159,Estado de México,Latino Esencial (Nivel C),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 160,Nuevo León,Latino Elite (Nivel A),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 161,Nuevo León,Latino Preferente (Nivel B),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 162,Nuevo León,Latino Esencial (Nivel C),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 163,Nuevo León,Latino Elite (Nivel A),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 164,Jalisco,Latino Preferente (Nivel B),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 165,Jalisco,Latino Esencial (Nivel C),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 166,Jalisco,Latino Elite (Nivel A),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 167,Puebla,Latino Preferente (Nivel B),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 168,Querétaro,Latino Esencial (Nivel C),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 169,Querétaro,Latino Elite (Nivel A),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 170,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 171,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 172,Quintana Roo,Latino Elite (Nivel A),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 173,Yucatán,Latino Preferente (Nivel B),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 174,Baja California,Latino Esencial (Nivel C),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 175,Chihuahua,Latino Elite (Nivel A),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 176,Ciudad de México,Latino Preferente (Nivel B),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 177,Ciudad de México,Latino Esencial (Nivel C),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 178,Ciudad de México,Latino Elite (Nivel A),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 179,Ciudad de México,Latino Preferente (Nivel B),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 180,Ciudad de México,Latino Esencial (Nivel C),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 181,Ciudad de México,Latino Elite (Nivel A),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 182,Estado de México,Latino Preferente (Nivel B),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 183,Estado de México,Latino Esencial (Nivel C),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 184,Estado de México,Latino Elite (Nivel A),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 185,Nuevo León,Latino Preferente (Nivel B),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 186,Nuevo León,Latino Esencial (Nivel C),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 187,Nuevo León,Latino Elite (Nivel A),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 188,Nuevo León,Latino Preferente (Nivel B),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 189,Jalisco,Latino Esencial (Nivel C),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 190,Jalisco,Latino Elite (Nivel A),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 191,Jalisco,Latino Preferente (Nivel B),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 192,Puebla,Latino Esencial (Nivel C),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 193,Querétaro,Latino Elite (Nivel A),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 194,Querétaro,Latino Preferente (Nivel B),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 195,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 196,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 197,Quintana Roo,Latino Preferente (Nivel B),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 198,Yucatán,Latino Esencial (Nivel C),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 199,Baja California,Latino Elite (Nivel A),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 200,Chihuahua,Latino Preferente (Nivel B),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 201,Ciudad de México,Latino Esencial (Nivel C),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 202,Ciudad de México,Latino Elite (Nivel A),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 203,Ciudad de México,Latino Preferente (Nivel B),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 204,Ciudad de México,Latino Esencial (Nivel C),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 205,Ciudad de México,Latino Elite (Nivel A),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 206,Ciudad de México,Latino Preferente (Nivel B),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 207,Estado de México,Latino Esencial (Nivel C),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 208,Estado de México,Latino Elite (Nivel A),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 209,Estado de México,Latino Preferente (Nivel B),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 210,Nuevo León,Latino Esencial (Nivel C),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 211,Nuevo León,Latino Elite (Nivel A),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 212,Nuevo León,Latino Preferente (Nivel B),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 213,Nuevo León,Latino Esencial (Nivel C),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 214,Jalisco,Latino Elite (Nivel A),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 215,Jalisco,Latino Preferente (Nivel B),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 216,Jalisco,Latino Esencial (Nivel C),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 217,Puebla,Latino Elite (Nivel A),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 218,Querétaro,Latino Preferente (Nivel B),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 219,Querétaro,Latino Esencial (Nivel C),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 220,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 221,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 222,Quintana Roo,Latino Esencial (Nivel C),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 223,Yucatán,Latino Elite (Nivel A),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 224,Baja California,Latino Preferente (Nivel B),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 225,Chihuahua,Latino Esencial (Nivel C),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 226,Ciudad de México,Latino Elite (Nivel A),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 227,Ciudad de México,Latino Preferente (Nivel B),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 228,Ciudad de México,Latino Esencial (Nivel C),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 229,Ciudad de México,Latino Elite (Nivel A),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 230,Ciudad de México,Latino Preferente (Nivel B),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 231,Ciudad de México,Latino Esencial (Nivel C),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 232,Estado de México,Latino Elite (Nivel A),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 233,Estado de México,Latino Preferente (Nivel B),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 234,Estado de México,Latino Esencial (Nivel C),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 235,Nuevo León,Latino Elite (Nivel A),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 236,Nuevo León,Latino Preferente (Nivel B),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 237,Nuevo León,Latino Esencial (Nivel C),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 238,Nuevo León,Latino Elite (Nivel A),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 239,Jalisco,Latino Preferente (Nivel B),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 240,Jalisco,Latino Esencial (Nivel C),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 241,Jalisco,Latino Elite (Nivel A),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 242,Puebla,Latino Preferente (Nivel B),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 243,Querétaro,Latino Esencial (Nivel C),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 244,Querétaro,Latino Elite (Nivel A),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 245,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 246,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 247,Quintana Roo,Latino Elite (Nivel A),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 248,Yucatán,Latino Preferente (Nivel B),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 249,Baja California,Latino Esencial (Nivel C),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 250,Chihuahua,Latino Elite (Nivel A),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 251,Ciudad de México,Latino Preferente (Nivel B),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 252,Ciudad de México,Latino Esencial (Nivel C),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 253,Ciudad de México,Latino Elite (Nivel A),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 254,Ciudad de México,Latino Preferente (Nivel B),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 255,Ciudad de México,Latino Esencial (Nivel C),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 256,Ciudad de México,Latino Elite (Nivel A),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 257,Estado de México,Latino Preferente (Nivel B),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 258,Estado de México,Latino Esencial (Nivel C),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 259,Estado de México,Latino Elite (Nivel A),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 260,Nuevo León,Latino Preferente (Nivel B),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 261,Nuevo León,Latino Esencial (Nivel C),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 262,Nuevo León,Latino Elite (Nivel A),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 263,Nuevo León,Latino Preferente (Nivel B),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 264,Jalisco,Latino Esencial (Nivel C),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 265,Jalisco,Latino Elite (Nivel A),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 266,Jalisco,Latino Preferente (Nivel B),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 267,Puebla,Latino Esencial (Nivel C),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 268,Querétaro,Latino Elite (Nivel A),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 269,Querétaro,Latino Preferente (Nivel B),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 270,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 271,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 272,Quintana Roo,Latino Preferente (Nivel B),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 273,Yucatán,Latino Esencial (Nivel C),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 274,Baja California,Latino Elite (Nivel A),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 275,Chihuahua,Latino Preferente (Nivel B),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 276,Ciudad de México,Latino Esencial (Nivel C),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 277,Ciudad de México,Latino Elite (Nivel A),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 278,Ciudad de México,Latino Preferente (Nivel B),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 279,Ciudad de México,Latino Esencial (Nivel C),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 280,Ciudad de México,Latino Elite (Nivel A),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 281,Ciudad de México,Latino Preferente (Nivel B),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 282,Estado de México,Latino Esencial (Nivel C),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 283,Estado de México,Latino Elite (Nivel A),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 284,Estado de México,Latino Preferente (Nivel B),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 285,Nuevo León,Latino Esencial (Nivel C),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 286,Nuevo León,Latino Elite (Nivel A),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 287,Nuevo León,Latino Preferente (Nivel B),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 288,Nuevo León,Latino Esencial (Nivel C),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 289,Jalisco,Latino Elite (Nivel A),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 290,Jalisco,Latino Preferente (Nivel B),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 291,Jalisco,Latino Esencial (Nivel C),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 292,Puebla,Latino Elite (Nivel A),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 293,Querétaro,Latino Preferente (Nivel B),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 294,Querétaro,Latino Esencial (Nivel C),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 295,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 296,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 297,Quintana Roo,Latino Esencial (Nivel C),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 298,Yucatán,Latino Elite (Nivel A),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 299,Baja California,Latino Preferente (Nivel B),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 300,Chihuahua,Latino Esencial (Nivel C),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 301,Ciudad de México,Latino Elite (Nivel A),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 302,Ciudad de México,Latino Preferente (Nivel B),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 303,Ciudad de México,Latino Esencial (Nivel C),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 304,Ciudad de México,Latino Elite (Nivel A),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 305,Ciudad de México,Latino Preferente (Nivel B),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 306,Ciudad de México,Latino Esencial (Nivel C),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 307,Estado de México,Latino Elite (Nivel A),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 308,Estado de México,Latino Preferente (Nivel B),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 309,Estado de México,Latino Esencial (Nivel C),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 310,Nuevo León,Latino Elite (Nivel A),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 311,Nuevo León,Latino Preferente (Nivel B),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 312,Nuevo León,Latino Esencial (Nivel C),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 313,Nuevo León,Latino Elite (Nivel A),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 314,Jalisco,Latino Preferente (Nivel B),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 315,Jalisco,Latino Esencial (Nivel C),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 316,Jalisco,Latino Elite (Nivel A),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 317,Puebla,Latino Preferente (Nivel B),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 318,Querétaro,Latino Esencial (Nivel C),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 319,Querétaro,Latino Elite (Nivel A),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 320,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 321,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 322,Quintana Roo,Latino Elite (Nivel A),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 323,Yucatán,Latino Preferente (Nivel B),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 324,Baja California,Latino Esencial (Nivel C),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 325,Chihuahua,Latino Elite (Nivel A),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 326,Ciudad de México,Latino Preferente (Nivel B),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 327,Ciudad de México,Latino Esencial (Nivel C),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 328,Ciudad de México,Latino Elite (Nivel A),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 329,Ciudad de México,Latino Preferente (Nivel B),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 330,Ciudad de México,Latino Esencial (Nivel C),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 331,Ciudad de México,Latino Elite (Nivel A),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 332,Estado de México,Latino Preferente (Nivel B),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 333,Estado de México,Latino Esencial (Nivel C),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 334,Estado de México,Latino Elite (Nivel A),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 335,Nuevo León,Latino Preferente (Nivel B),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 336,Nuevo León,Latino Esencial (Nivel C),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 337,Nuevo León,Latino Elite (Nivel A),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 338,Nuevo León,Latino Preferente (Nivel B),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 339,Jalisco,Latino Esencial (Nivel C),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 340,Jalisco,Latino Elite (Nivel A),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 341,Jalisco,Latino Preferente (Nivel B),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 342,Puebla,Latino Esencial (Nivel C),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 343,Querétaro,Latino Elite (Nivel A),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 344,Querétaro,Latino Preferente (Nivel B),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 345,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 346,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 347,Quintana Roo,Latino Preferente (Nivel B),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 348,Yucatán,Latino Esencial (Nivel C),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 349,Baja California,Latino Elite (Nivel A),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 350,Chihuahua,Latino Preferente (Nivel B),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 351,Ciudad de México,Latino Esencial (Nivel C),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 352,Ciudad de México,Latino Elite (Nivel A),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 353,Ciudad de México,Latino Preferente (Nivel B),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 354,Ciudad de México,Latino Esencial (Nivel C),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 355,Ciudad de México,Latino Elite (Nivel A),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 356,Ciudad de México,Latino Preferente (Nivel B),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 357,Estado de México,Latino Esencial (Nivel C),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 358,Estado de México,Latino Elite (Nivel A),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 359,Estado de México,Latino Preferente (Nivel B),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 360,Nuevo León,Latino Esencial (Nivel C),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 361,Nuevo León,Latino Elite (Nivel A),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 362,Nuevo León,Latino Preferente (Nivel B),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 363,Nuevo León,Latino Esencial (Nivel C),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 364,Jalisco,Latino Elite (Nivel A),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 365,Jalisco,Latino Preferente (Nivel B),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 366,Jalisco,Latino Esencial (Nivel C),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 367,Puebla,Latino Elite (Nivel A),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 368,Querétaro,Latino Preferente (Nivel B),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 369,Querétaro,Latino Esencial (Nivel C),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 370,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 371,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 372,Quintana Roo,Latino Esencial (Nivel C),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 373,Yucatán,Latino Elite (Nivel A),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 374,Baja California,Latino Preferente (Nivel B),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 375,Chihuahua,Latino Esencial (Nivel C),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 376,Ciudad de México,Latino Elite (Nivel A),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 377,Ciudad de México,Latino Preferente (Nivel B),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 378,Ciudad de México,Latino Esencial (Nivel C),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 379,Ciudad de México,Latino Elite (Nivel A),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 380,Ciudad de México,Latino Preferente (Nivel B),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 381,Ciudad de México,Latino Esencial (Nivel C),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 382,Estado de México,Latino Elite (Nivel A),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 383,Estado de México,Latino Preferente (Nivel B),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 384,Estado de México,Latino Esencial (Nivel C),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 385,Nuevo León,Latino Elite (Nivel A),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 386,Nuevo León,Latino Preferente (Nivel B),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 387,Nuevo León,Latino Esencial (Nivel C),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 388,Nuevo León,Latino Elite (Nivel A),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 389,Jalisco,Latino Preferente (Nivel B),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 390,Jalisco,Latino Esencial (Nivel C),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 391,Jalisco,Latino Elite (Nivel A),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 392,Puebla,Latino Preferente (Nivel B),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 393,Querétaro,Latino Esencial (Nivel C),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 394,Querétaro,Latino Elite (Nivel A),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 395,Guanajuato,Latino Preferente (Nivel B),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 396,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 397,Quintana Roo,Latino Elite (Nivel A),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 398,Yucatán,Latino Preferente (Nivel B),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 399,Baja California,Latino Esencial (Nivel C),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 400,Chihuahua,Latino Elite (Nivel A),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 401,Ciudad de México,Latino Preferente (Nivel B),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 402,Ciudad de México,Latino Esencial (Nivel C),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 403,Ciudad de México,Latino Elite (Nivel A),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 404,Ciudad de México,Latino Preferente (Nivel B),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 405,Ciudad de México,Latino Esencial (Nivel C),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 406,Ciudad de México,Latino Elite (Nivel A),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 407,Estado de México,Latino Preferente (Nivel B),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 408,Estado de México,Latino Esencial (Nivel C),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 409,Estado de México,Latino Elite (Nivel A),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 410,Nuevo León,Latino Preferente (Nivel B),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 411,Nuevo León,Latino Esencial (Nivel C),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
+Christus Muguerza Hospital Alta Especialidad Sucursal 412,Nuevo León,Latino Elite (Nivel A),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,La Latinoamericana Seguros
+Christus Muguerza Hospital Sur Sucursal 413,Nuevo León,Latino Preferente (Nivel B),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,La Latinoamericana Seguros
+Hospital Puerta de Hierro Zapopan Sucursal 414,Jalisco,Latino Esencial (Nivel C),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,La Latinoamericana Seguros
+Hospital San Javier Sucursal 415,Jalisco,Latino Elite (Nivel A),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,La Latinoamericana Seguros
+Hospital Real San José Sucursal 416,Jalisco,Latino Preferente (Nivel B),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,La Latinoamericana Seguros
+Hospital Ángeles Puebla Sucursal 417,Puebla,Latino Esencial (Nivel C),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,La Latinoamericana Seguros
+Star Médica Querétaro Sucursal 418,Querétaro,Latino Elite (Nivel A),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,La Latinoamericana Seguros
+Hospital San José Moscati Sucursal 419,Querétaro,Latino Preferente (Nivel B),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,La Latinoamericana Seguros
+Hospital Ángeles León Sucursal 420,Guanajuato,Latino Esencial (Nivel C),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,La Latinoamericana Seguros
+Star Médica León Sucursal 421,Guanajuato,Latino Elite (Nivel A),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,La Latinoamericana Seguros
+Hospital Galenia Sucursal 422,Quintana Roo,Latino Preferente (Nivel B),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,La Latinoamericana Seguros
+Hospital Star Médica Mérida Sucursal 423,Yucatán,Latino Esencial (Nivel C),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,La Latinoamericana Seguros
+Hospital Ángeles Tijuana Sucursal 424,Baja California,Latino Elite (Nivel A),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,La Latinoamericana Seguros
+Hospital CMI Chihuahua Sucursal 425,Chihuahua,Latino Preferente (Nivel B),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,La Latinoamericana Seguros
+Médica Sur Sucursal 426,Ciudad de México,Latino Esencial (Nivel C),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,La Latinoamericana Seguros
+Hospital Español Sucursal 427,Ciudad de México,Latino Elite (Nivel A),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,La Latinoamericana Seguros
+Hospital Ángeles Pedregal Sucursal 428,Ciudad de México,Latino Preferente (Nivel B),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,La Latinoamericana Seguros
+Hospital Ángeles México Sucursal 429,Ciudad de México,Latino Esencial (Nivel C),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,La Latinoamericana Seguros
+Hospital San Ángel Inn Chapultepec Sucursal 430,Ciudad de México,Latino Elite (Nivel A),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,La Latinoamericana Seguros
+Centro Médico Dalinde Sucursal 431,Ciudad de México,Latino Preferente (Nivel B),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,La Latinoamericana Seguros
+Corporativo Hospital Satélite Sucursal 432,Estado de México,Latino Esencial (Nivel C),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,La Latinoamericana Seguros
+Hospital Star Médica Lomas Verdes Sucursal 433,Estado de México,Latino Elite (Nivel A),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,La Latinoamericana Seguros
+Hospital Ángeles Interlomas Sucursal 434,Estado de México,Latino Preferente (Nivel B),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,La Latinoamericana Seguros
+Hospital Zambrano Hellion TecSalud Sucursal 435,Nuevo León,Latino Esencial (Nivel C),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,La Latinoamericana Seguros
+Hospital San José TecSalud Sucursal 436,Nuevo León,Latino Elite (Nivel A),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,La Latinoamericana Seguros
