@@ -1,0 +1,437 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Nivel A (Platino),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel B (Integral),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Esencial),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel A (Platino),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Integral),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel C (Esencial),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Platino),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Integral),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Esencial),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Platino),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel B (Integral),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Esencial),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Platino),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel B (Integral),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Esencial),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Platino),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel B (Integral),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel C (Esencial),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel A (Platino),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel B (Integral),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel C (Esencial),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Platino),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Integral),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel C (Esencial),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Platino),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Integral),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Esencial),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel A (Platino),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel B (Integral),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel C (Esencial),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel A (Platino),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel B (Integral),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel B (Integral),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel C (Esencial),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel A (Platino),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Integral),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel C (Esencial),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel A (Platino),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Integral),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel C (Esencial),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Platino),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel B (Integral),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Esencial),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Platino),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Integral),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Esencial),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel A (Platino),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Integral),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Esencial),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel A (Platino),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Integral),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Esencial),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel A (Platino),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel B (Integral),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel C (Esencial),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel A (Platino),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel B (Integral),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Esencial),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Platino),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel B (Integral),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Esencial),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Platino),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Integral),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel C (Esencial),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel A (Platino),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel B (Integral),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel C (Esencial),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel A (Platino),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel A (Platino),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel B (Integral),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel C (Esencial),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Platino),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel B (Integral),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel C (Esencial),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Platino),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel B (Integral),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Esencial),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel A (Platino),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Integral),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Esencial),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Platino),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Integral),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel C (Esencial),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Platino),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Integral),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel C (Esencial),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Platino),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Integral),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel C (Esencial),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel A (Platino),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel B (Integral),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel C (Esencial),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel A (Platino),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Integral),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Esencial),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel A (Platino),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Integral),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Esencial),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Platino),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel B (Integral),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel C (Esencial),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel A (Platino),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel B (Integral),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel C (Esencial),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel C (Esencial),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel A (Platino),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel B (Integral),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Esencial),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel A (Platino),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel B (Integral),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Esencial),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel A (Platino),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Integral),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel C (Esencial),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Platino),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Integral),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Esencial),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Platino),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel B (Integral),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Esencial),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Platino),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel B (Integral),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Esencial),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Platino),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel B (Integral),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel C (Esencial),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel A (Platino),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel B (Integral),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel C (Esencial),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Platino),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Integral),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel C (Esencial),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Platino),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Integral),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Esencial),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel A (Platino),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel B (Integral),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel C (Esencial),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel A (Platino),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel B (Integral),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel B (Integral),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel C (Esencial),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel A (Platino),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Integral),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel C (Esencial),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel A (Platino),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Integral),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel C (Esencial),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Platino),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel B (Integral),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Esencial),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Platino),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Integral),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Esencial),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel A (Platino),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Integral),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Esencial),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel A (Platino),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Integral),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Esencial),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel A (Platino),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel B (Integral),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel C (Esencial),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel A (Platino),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel B (Integral),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Esencial),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Platino),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel B (Integral),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Esencial),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Platino),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Integral),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel C (Esencial),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel A (Platino),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel B (Integral),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel C (Esencial),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel A (Platino),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel A (Platino),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel B (Integral),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel C (Esencial),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Platino),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel B (Integral),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel C (Esencial),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Platino),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel B (Integral),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Esencial),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel A (Platino),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Integral),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Esencial),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Platino),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Integral),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel C (Esencial),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Platino),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Integral),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel C (Esencial),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Platino),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Integral),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel C (Esencial),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel A (Platino),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel B (Integral),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel C (Esencial),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel A (Platino),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Integral),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Esencial),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel A (Platino),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Integral),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Esencial),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Platino),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel B (Integral),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel C (Esencial),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel A (Platino),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel B (Integral),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel C (Esencial),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel C (Esencial),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel A (Platino),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel B (Integral),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Esencial),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel A (Platino),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel B (Integral),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Esencial),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel A (Platino),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Integral),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel C (Esencial),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Platino),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Integral),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Esencial),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Platino),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel B (Integral),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Esencial),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Platino),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel B (Integral),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Esencial),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Platino),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel B (Integral),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel C (Esencial),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel A (Platino),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel B (Integral),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel C (Esencial),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Platino),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Integral),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel C (Esencial),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Platino),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Integral),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Esencial),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel A (Platino),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel B (Integral),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel C (Esencial),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel A (Platino),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel B (Integral),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel B (Integral),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel C (Esencial),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel A (Platino),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Integral),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel C (Esencial),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel A (Platino),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Integral),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel C (Esencial),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Platino),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel B (Integral),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Esencial),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Platino),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Integral),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Esencial),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel A (Platino),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Integral),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Esencial),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel A (Platino),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Integral),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Esencial),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel A (Platino),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel B (Integral),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel C (Esencial),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel A (Platino),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel B (Integral),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Esencial),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Platino),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel B (Integral),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Esencial),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Platino),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Integral),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel C (Esencial),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel A (Platino),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel B (Integral),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel C (Esencial),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel A (Platino),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel A (Platino),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel B (Integral),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel C (Esencial),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Platino),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel B (Integral),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel C (Esencial),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Platino),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel B (Integral),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Esencial),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel A (Platino),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Integral),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Esencial),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Platino),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Integral),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel C (Esencial),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Platino),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Integral),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel C (Esencial),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Platino),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Integral),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel C (Esencial),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel A (Platino),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel B (Integral),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel C (Esencial),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel A (Platino),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Integral),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Esencial),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel A (Platino),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Integral),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Esencial),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Platino),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel B (Integral),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel C (Esencial),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel A (Platino),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel B (Integral),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel C (Esencial),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel C (Esencial),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel A (Platino),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel B (Integral),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Esencial),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel A (Platino),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel B (Integral),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Esencial),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel A (Platino),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Integral),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel C (Esencial),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Platino),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Integral),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Esencial),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Platino),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel B (Integral),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Esencial),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Platino),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel B (Integral),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Esencial),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Platino),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel B (Integral),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel C (Esencial),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel A (Platino),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel B (Integral),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel C (Esencial),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Platino),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Integral),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel C (Esencial),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Platino),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Integral),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Esencial),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel A (Platino),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel B (Integral),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel C (Esencial),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel A (Platino),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel B (Integral),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel A (Platino),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel B (Integral),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel C (Esencial),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel A (Platino),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Integral),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel C (Esencial),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel A (Platino),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Integral),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel C (Esencial),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Platino),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel B (Integral),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Esencial),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Platino),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Integral),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Esencial),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel A (Platino),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Integral),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Esencial),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel A (Platino),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Integral),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Esencial),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel A (Platino),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel B (Integral),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP
+Hospital Felman,Jalisco,Nivel C (Esencial),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,GNP
+Hospital Bernardette,Jalisco,Nivel A (Platino),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,GNP
+Hospital Country 2000,Jalisco,Nivel B (Integral),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,GNP
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Esencial),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,GNP
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Platino),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,GNP
+Hospital San José TecSalud,Nuevo León,Nivel B (Integral),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,GNP
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Esencial),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,GNP
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Platino),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,GNP
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Integral),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,GNP
+Hospital Ángeles Puebla,Puebla,Nivel C (Esencial),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,GNP
+Hospital UPAEP,Puebla,Nivel A (Platino),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,GNP
+Hospital Betania,Puebla,Nivel B (Integral),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,GNP
+Star Médica Querétaro,Querétaro,Nivel C (Esencial),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,GNP
+Hospital San José Moscati,Querétaro,Nivel A (Platino),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,GNP
+Hospital Ángeles León,Guanajuato,Nivel B (Integral),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,GNP
+Star Médica León,Guanajuato,Nivel C (Esencial),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,GNP
+Hospital Galenia,Quintana Roo,Nivel A (Platino),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,GNP
+Hospital Star Médica Mérida,Yucatán,Nivel B (Integral),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,GNP
+Hospital Ángeles Tijuana,Baja California,Nivel C (Esencial),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,GNP
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Platino),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,GNP
+Médica Sur,Ciudad de México,Nivel B (Integral),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,GNP
+Hospital Español,Ciudad de México,Nivel C (Esencial),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,GNP
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Platino),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,GNP
+Hospital Ángeles México,Ciudad de México,Nivel B (Integral),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,GNP
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Esencial),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,GNP
+Centro Médico Dalinde,Ciudad de México,Nivel A (Platino),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,GNP
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Integral),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,GNP
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Esencial),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,GNP
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Platino),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,GNP
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Integral),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,GNP
+Corporativo Hospital Satélite,Estado de México,Nivel C (Esencial),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,GNP
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Platino),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,GNP
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Integral),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,GNP
+Hospital San José Metepec,Estado de México,Nivel C (Esencial),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,GNP
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Platino),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,GNP
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Integral),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,GNP
+Hospital San Javier,Jalisco,Nivel C (Esencial),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,GNP
+Hospital Real San José,Jalisco,Nivel A (Platino),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,GNP

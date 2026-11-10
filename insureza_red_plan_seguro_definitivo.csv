@@ -1,0 +1,437 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Nivel A (Titular),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel B (Select),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Base),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel A (Titular),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Select),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel C (Base),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Titular),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Select),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Base),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Titular),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel B (Select),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Base),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Titular),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel B (Select),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Base),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Titular),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel B (Select),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel C (Base),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel A (Titular),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel B (Select),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel C (Base),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Titular),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Select),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel C (Base),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Titular),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Select),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Base),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel A (Titular),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel B (Select),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel C (Base),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel A (Titular),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel B (Select),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel B (Select),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel C (Base),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel A (Titular),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Select),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel C (Base),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel A (Titular),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Select),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel C (Base),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Titular),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel B (Select),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Base),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Titular),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Select),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Base),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel A (Titular),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Select),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Base),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel A (Titular),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Select),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Base),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel A (Titular),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel B (Select),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel C (Base),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel A (Titular),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel B (Select),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Base),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Titular),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel B (Select),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Base),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Titular),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Select),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel C (Base),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel A (Titular),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel B (Select),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel C (Base),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel A (Titular),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel A (Titular),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel B (Select),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel C (Base),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Titular),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel B (Select),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel C (Base),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Titular),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel B (Select),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Base),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel A (Titular),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Select),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Base),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Titular),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Select),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel C (Base),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Titular),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Select),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel C (Base),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Titular),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Select),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel C (Base),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel A (Titular),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel B (Select),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel C (Base),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel A (Titular),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Select),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Base),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel A (Titular),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Select),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Base),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Titular),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel B (Select),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel C (Base),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel A (Titular),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel B (Select),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel C (Base),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel C (Base),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel A (Titular),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel B (Select),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Base),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel A (Titular),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel B (Select),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Base),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel A (Titular),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Select),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel C (Base),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Titular),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Select),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Base),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Titular),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel B (Select),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Base),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Titular),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel B (Select),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Base),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Titular),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel B (Select),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel C (Base),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel A (Titular),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel B (Select),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel C (Base),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Titular),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Select),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel C (Base),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Titular),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Select),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Base),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel A (Titular),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel B (Select),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel C (Base),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel A (Titular),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel B (Select),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel B (Select),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel C (Base),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel A (Titular),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Select),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel C (Base),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel A (Titular),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Select),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel C (Base),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Titular),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel B (Select),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Base),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Titular),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Select),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Base),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel A (Titular),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Select),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Base),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel A (Titular),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Select),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Base),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel A (Titular),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel B (Select),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel C (Base),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel A (Titular),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel B (Select),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Base),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Titular),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel B (Select),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Base),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Titular),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Select),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel C (Base),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel A (Titular),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel B (Select),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel C (Base),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel A (Titular),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel A (Titular),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel B (Select),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel C (Base),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Titular),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel B (Select),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel C (Base),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Titular),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel B (Select),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Base),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel A (Titular),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Select),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Base),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Titular),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Select),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel C (Base),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Titular),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Select),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel C (Base),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Titular),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Select),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel C (Base),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel A (Titular),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel B (Select),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel C (Base),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel A (Titular),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Select),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Base),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel A (Titular),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Select),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Base),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Titular),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel B (Select),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel C (Base),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel A (Titular),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel B (Select),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel C (Base),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel C (Base),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel A (Titular),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel B (Select),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Base),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel A (Titular),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel B (Select),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Base),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel A (Titular),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Select),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel C (Base),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Titular),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Select),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Base),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Titular),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel B (Select),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Base),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Titular),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel B (Select),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Base),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Titular),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel B (Select),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel C (Base),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel A (Titular),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel B (Select),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel C (Base),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Titular),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Select),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel C (Base),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Titular),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Select),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Base),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel A (Titular),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel B (Select),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel C (Base),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel A (Titular),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel B (Select),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel B (Select),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel C (Base),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel A (Titular),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Select),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel C (Base),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel A (Titular),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Select),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel C (Base),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Titular),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel B (Select),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Base),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Titular),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Select),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Base),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel A (Titular),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Select),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Base),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel A (Titular),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Select),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Base),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel A (Titular),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel B (Select),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel C (Base),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel A (Titular),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel B (Select),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Base),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Titular),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel B (Select),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Base),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Titular),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Select),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel C (Base),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel A (Titular),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel B (Select),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel C (Base),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel A (Titular),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel A (Titular),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel B (Select),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel C (Base),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Titular),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel B (Select),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel C (Base),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Titular),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel B (Select),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Base),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel A (Titular),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Select),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Base),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Titular),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Select),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel C (Base),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Titular),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Select),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel C (Base),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Titular),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Select),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel C (Base),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel A (Titular),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel B (Select),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel C (Base),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel A (Titular),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Select),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Base),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel A (Titular),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Select),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Base),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Titular),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel B (Select),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel C (Base),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel A (Titular),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel B (Select),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel C (Base),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel C (Base),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel A (Titular),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel B (Select),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Base),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel A (Titular),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel B (Select),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Base),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel A (Titular),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Select),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel C (Base),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Titular),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Select),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Base),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Titular),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel B (Select),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Base),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Titular),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel B (Select),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Base),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Titular),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel B (Select),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel C (Base),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel A (Titular),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel B (Select),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel C (Base),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Titular),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Select),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel C (Base),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Titular),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Select),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Base),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel A (Titular),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel B (Select),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel C (Base),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel A (Titular),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel B (Select),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel A (Titular),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel B (Select),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel C (Base),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel A (Titular),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Select),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel C (Base),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel A (Titular),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Select),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel C (Base),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Titular),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel B (Select),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Base),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Titular),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Select),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Base),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel A (Titular),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Select),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Base),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel A (Titular),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Select),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Base),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel A (Titular),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel B (Select),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro
+Hospital Felman,Jalisco,Nivel C (Base),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Plan Seguro
+Hospital Bernardette,Jalisco,Nivel A (Titular),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Plan Seguro
+Hospital Country 2000,Jalisco,Nivel B (Select),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Plan Seguro
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Base),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Plan Seguro
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Titular),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Plan Seguro
+Hospital San José TecSalud,Nuevo León,Nivel B (Select),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Plan Seguro
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Base),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Plan Seguro
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Titular),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Plan Seguro
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Select),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Plan Seguro
+Hospital Ángeles Puebla,Puebla,Nivel C (Base),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Plan Seguro
+Hospital UPAEP,Puebla,Nivel A (Titular),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Plan Seguro
+Hospital Betania,Puebla,Nivel B (Select),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Plan Seguro
+Star Médica Querétaro,Querétaro,Nivel C (Base),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Plan Seguro
+Hospital San José Moscati,Querétaro,Nivel A (Titular),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Plan Seguro
+Hospital Ángeles León,Guanajuato,Nivel B (Select),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Plan Seguro
+Star Médica León,Guanajuato,Nivel C (Base),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Plan Seguro
+Hospital Galenia,Quintana Roo,Nivel A (Titular),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Plan Seguro
+Hospital Star Médica Mérida,Yucatán,Nivel B (Select),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Plan Seguro
+Hospital Ángeles Tijuana,Baja California,Nivel C (Base),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Plan Seguro
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Titular),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Plan Seguro
+Médica Sur,Ciudad de México,Nivel B (Select),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Plan Seguro
+Hospital Español,Ciudad de México,Nivel C (Base),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Plan Seguro
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Titular),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Plan Seguro
+Hospital Ángeles México,Ciudad de México,Nivel B (Select),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Plan Seguro
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Base),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Plan Seguro
+Centro Médico Dalinde,Ciudad de México,Nivel A (Titular),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Plan Seguro
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Select),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Plan Seguro
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Base),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Plan Seguro
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Titular),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Plan Seguro
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Select),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Plan Seguro
+Corporativo Hospital Satélite,Estado de México,Nivel C (Base),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Plan Seguro
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Titular),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Plan Seguro
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Select),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Plan Seguro
+Hospital San José Metepec,Estado de México,Nivel C (Base),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Plan Seguro
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Titular),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Plan Seguro
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Select),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Plan Seguro
+Hospital San Javier,Jalisco,Nivel C (Base),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Plan Seguro
+Hospital Real San José,Jalisco,Nivel A (Titular),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Plan Seguro

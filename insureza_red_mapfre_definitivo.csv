@@ -1,0 +1,475 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Nivel A (Global),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel B (Preferente),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Clásico),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel A (Global),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Preferente),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel C (Clásico),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Global),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Preferente),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Clásico),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Global),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel B (Preferente),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Clásico),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Global),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel B (Preferente),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Clásico),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Global),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel B (Preferente),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel C (Clásico),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel A (Global),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel B (Preferente),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel C (Clásico),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Global),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Preferente),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel C (Clásico),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Global),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Preferente),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Clásico),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel A (Global),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel B (Preferente),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel C (Clásico),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel A (Global),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel B (Preferente),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel B (Preferente),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel C (Clásico),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel A (Global),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Preferente),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel C (Clásico),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel A (Global),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Preferente),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel C (Clásico),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Global),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel B (Preferente),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Clásico),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Global),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Preferente),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Clásico),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel A (Global),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Preferente),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Clásico),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel A (Global),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Preferente),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Clásico),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel A (Global),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel B (Preferente),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel C (Clásico),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel A (Global),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel B (Preferente),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Clásico),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Global),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel B (Preferente),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Clásico),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Global),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Preferente),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel C (Clásico),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel A (Global),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel B (Preferente),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel C (Clásico),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel A (Global),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel A (Global),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel B (Preferente),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel C (Clásico),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Global),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel B (Preferente),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel C (Clásico),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Global),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel B (Preferente),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Clásico),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel A (Global),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Preferente),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Clásico),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Global),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Preferente),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel C (Clásico),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Global),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Preferente),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel C (Clásico),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Global),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Preferente),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel C (Clásico),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel A (Global),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel B (Preferente),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel C (Clásico),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel A (Global),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Preferente),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Clásico),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel A (Global),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Preferente),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Clásico),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Global),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel B (Preferente),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel C (Clásico),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel A (Global),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel B (Preferente),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel C (Clásico),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel C (Clásico),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel A (Global),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel B (Preferente),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Clásico),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel A (Global),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel B (Preferente),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Clásico),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel A (Global),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Preferente),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel C (Clásico),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Global),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Preferente),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Clásico),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Global),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel B (Preferente),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Clásico),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Global),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel B (Preferente),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Clásico),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Global),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel B (Preferente),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel C (Clásico),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel A (Global),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel B (Preferente),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel C (Clásico),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Global),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Preferente),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel C (Clásico),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Global),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Preferente),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Clásico),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel A (Global),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel B (Preferente),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel C (Clásico),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel A (Global),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel B (Preferente),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel B (Preferente),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel C (Clásico),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel A (Global),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Preferente),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel C (Clásico),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel A (Global),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Preferente),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel C (Clásico),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Global),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel B (Preferente),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Clásico),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Global),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Preferente),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Clásico),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel A (Global),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Preferente),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Clásico),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel A (Global),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Preferente),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Clásico),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel A (Global),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel B (Preferente),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel C (Clásico),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel A (Global),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel B (Preferente),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Clásico),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Global),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel B (Preferente),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Clásico),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Global),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Preferente),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel C (Clásico),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel A (Global),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel B (Preferente),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel C (Clásico),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel A (Global),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel A (Global),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel B (Preferente),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel C (Clásico),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Global),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel B (Preferente),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel C (Clásico),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Global),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel B (Preferente),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Clásico),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel A (Global),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Preferente),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Clásico),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Global),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Preferente),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel C (Clásico),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Global),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Preferente),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel C (Clásico),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Global),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Preferente),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel C (Clásico),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel A (Global),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel B (Preferente),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel C (Clásico),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel A (Global),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Preferente),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Clásico),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel A (Global),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Preferente),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Clásico),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Global),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel B (Preferente),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel C (Clásico),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel A (Global),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel B (Preferente),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel C (Clásico),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel C (Clásico),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel A (Global),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel B (Preferente),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Clásico),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel A (Global),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel B (Preferente),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Clásico),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel A (Global),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Preferente),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel C (Clásico),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Global),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Preferente),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Clásico),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Global),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel B (Preferente),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Clásico),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Global),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel B (Preferente),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Clásico),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Global),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel B (Preferente),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel C (Clásico),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel A (Global),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel B (Preferente),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel C (Clásico),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Global),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Preferente),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel C (Clásico),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Global),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Preferente),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Clásico),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel A (Global),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel B (Preferente),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel C (Clásico),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel A (Global),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel B (Preferente),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel B (Preferente),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel C (Clásico),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel A (Global),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Preferente),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel C (Clásico),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel A (Global),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Preferente),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel C (Clásico),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Global),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel B (Preferente),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Clásico),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Global),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Preferente),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Clásico),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel A (Global),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Preferente),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Clásico),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel A (Global),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Preferente),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Clásico),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel A (Global),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel B (Preferente),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel C (Clásico),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel A (Global),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel B (Preferente),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Clásico),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Global),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel B (Preferente),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Clásico),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Global),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Preferente),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel C (Clásico),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel A (Global),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel B (Preferente),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel C (Clásico),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel A (Global),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel A (Global),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel B (Preferente),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel C (Clásico),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Global),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel B (Preferente),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel C (Clásico),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Global),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel B (Preferente),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Clásico),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel A (Global),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Preferente),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Clásico),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Global),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Preferente),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel C (Clásico),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Global),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Preferente),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel C (Clásico),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Global),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Preferente),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel C (Clásico),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel A (Global),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel B (Preferente),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel C (Clásico),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel A (Global),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Preferente),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Clásico),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel A (Global),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Preferente),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Clásico),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Global),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel B (Preferente),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel C (Clásico),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel A (Global),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel B (Preferente),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel C (Clásico),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel C (Clásico),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel A (Global),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel B (Preferente),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Clásico),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel A (Global),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel B (Preferente),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Clásico),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel A (Global),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Preferente),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel C (Clásico),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Global),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Preferente),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Clásico),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Global),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel B (Preferente),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Clásico),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Global),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel B (Preferente),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Clásico),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Global),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel B (Preferente),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel C (Clásico),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel A (Global),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel B (Preferente),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel C (Clásico),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Global),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Preferente),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel C (Clásico),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Global),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Preferente),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Clásico),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel A (Global),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel B (Preferente),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel C (Clásico),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel A (Global),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel B (Preferente),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel B (Preferente),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel C (Clásico),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel A (Global),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Preferente),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel C (Clásico),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel A (Global),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Preferente),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel C (Clásico),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Global),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel B (Preferente),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Clásico),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Global),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Preferente),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Clásico),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel A (Global),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Preferente),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Clásico),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel A (Global),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Preferente),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Clásico),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel A (Global),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel B (Preferente),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel C (Clásico),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel A (Global),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel B (Preferente),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Clásico),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Global),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel B (Preferente),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Clásico),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Global),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Preferente),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel C (Clásico),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel A (Global),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel B (Preferente),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel C (Clásico),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel A (Global),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel C (Clásico),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel A (Global),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel B (Preferente),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel C (Clásico),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Global),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel B (Preferente),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel C (Clásico),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Global),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel B (Preferente),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Clásico),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel A (Global),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Preferente),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Clásico),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Global),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Preferente),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel C (Clásico),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Global),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Preferente),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel C (Clásico),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Global),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Preferente),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel C (Clásico),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel A (Global),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre
+Hospital Felman,Jalisco,Nivel B (Preferente),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,Mapfre
+Hospital Bernardette,Jalisco,Nivel C (Clásico),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,Mapfre
+Hospital Country 2000,Jalisco,Nivel A (Global),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,Mapfre
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Preferente),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,Mapfre
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Clásico),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,Mapfre
+Hospital San José TecSalud,Nuevo León,Nivel A (Global),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,Mapfre
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Preferente),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,Mapfre
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Clásico),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,Mapfre
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Global),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,Mapfre
+Hospital Ángeles Puebla,Puebla,Nivel B (Preferente),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,Mapfre
+Hospital UPAEP,Puebla,Nivel C (Clásico),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,Mapfre
+Hospital Betania,Puebla,Nivel A (Global),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,Mapfre
+Star Médica Querétaro,Querétaro,Nivel B (Preferente),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,Mapfre
+Hospital San José Moscati,Querétaro,Nivel C (Clásico),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,Mapfre
+Hospital Ángeles León,Guanajuato,Nivel A (Global),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,Mapfre
+Star Médica León,Guanajuato,Nivel B (Preferente),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,Mapfre
+Hospital Galenia,Quintana Roo,Nivel C (Clásico),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,Mapfre
+Hospital Star Médica Mérida,Yucatán,Nivel A (Global),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,Mapfre
+Hospital Ángeles Tijuana,Baja California,Nivel B (Preferente),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,Mapfre
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Clásico),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,Mapfre
+Médica Sur,Ciudad de México,Nivel A (Global),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,Mapfre
+Hospital Español,Ciudad de México,Nivel B (Preferente),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,Mapfre
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Clásico),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,Mapfre
+Hospital Ángeles México,Ciudad de México,Nivel A (Global),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,Mapfre
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Preferente),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,Mapfre
+Centro Médico Dalinde,Ciudad de México,Nivel C (Clásico),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,Mapfre
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Global),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,Mapfre
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Preferente),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,Mapfre
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Clásico),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,Mapfre
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Global),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,Mapfre
+Corporativo Hospital Satélite,Estado de México,Nivel B (Preferente),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,Mapfre
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Clásico),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,Mapfre
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Global),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,Mapfre
+Hospital San José Metepec,Estado de México,Nivel B (Preferente),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,Mapfre
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Clásico),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,Mapfre
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Global),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,Mapfre
+Hospital San Javier,Jalisco,Nivel B (Preferente),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,Mapfre
+Hospital Real San José,Jalisco,Nivel C (Clásico),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,Mapfre

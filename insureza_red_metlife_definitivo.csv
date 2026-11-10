@@ -1,0 +1,432 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Nivel A (Diamante),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel B (Gold),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Standard),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel A (Diamante),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Gold),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel C (Standard),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Diamante),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Gold),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Standard),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Diamante),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel B (Gold),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Standard),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Diamante),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel B (Gold),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Standard),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Diamante),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel B (Gold),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel C (Standard),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel A (Diamante),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel B (Gold),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel C (Standard),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Diamante),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Gold),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel C (Standard),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Diamante),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Gold),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Standard),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel A (Diamante),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel B (Gold),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel C (Standard),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel A (Diamante),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel B (Gold),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel B (Gold),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel C (Standard),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel A (Diamante),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Gold),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel C (Standard),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel A (Diamante),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Gold),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel C (Standard),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Diamante),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel B (Gold),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Standard),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Diamante),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Gold),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Standard),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel A (Diamante),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Gold),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Standard),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel A (Diamante),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Gold),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Standard),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel A (Diamante),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel B (Gold),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel C (Standard),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel A (Diamante),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel B (Gold),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Standard),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Diamante),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel B (Gold),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Standard),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Diamante),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Gold),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel C (Standard),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel A (Diamante),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel B (Gold),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel C (Standard),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel A (Diamante),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel A (Diamante),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel B (Gold),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel C (Standard),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Diamante),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel B (Gold),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel C (Standard),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Diamante),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel B (Gold),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Standard),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel A (Diamante),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Gold),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Standard),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Diamante),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Gold),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel C (Standard),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Diamante),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Gold),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel C (Standard),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Diamante),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Gold),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel C (Standard),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel A (Diamante),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel B (Gold),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel C (Standard),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel A (Diamante),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Gold),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Standard),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel A (Diamante),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Gold),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Standard),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Diamante),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel B (Gold),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel C (Standard),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel A (Diamante),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel B (Gold),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel C (Standard),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel C (Standard),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel A (Diamante),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel B (Gold),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Standard),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel A (Diamante),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel B (Gold),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Standard),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel A (Diamante),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Gold),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel C (Standard),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Diamante),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Gold),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Standard),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Diamante),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel B (Gold),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Standard),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Diamante),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel B (Gold),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Standard),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Diamante),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel B (Gold),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel C (Standard),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel A (Diamante),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel B (Gold),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel C (Standard),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Diamante),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Gold),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel C (Standard),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Diamante),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Gold),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Standard),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel A (Diamante),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel B (Gold),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel C (Standard),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel A (Diamante),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel B (Gold),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel B (Gold),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel C (Standard),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel A (Diamante),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Gold),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel C (Standard),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel A (Diamante),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Gold),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel C (Standard),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Diamante),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel B (Gold),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Standard),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Diamante),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Gold),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Standard),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel A (Diamante),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Gold),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Standard),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel A (Diamante),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Gold),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Standard),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel A (Diamante),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel B (Gold),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel C (Standard),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel A (Diamante),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel B (Gold),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Standard),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Diamante),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel B (Gold),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Standard),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Diamante),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Gold),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel C (Standard),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel A (Diamante),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel B (Gold),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel C (Standard),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel A (Diamante),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel A (Diamante),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel B (Gold),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel C (Standard),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Diamante),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel B (Gold),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel C (Standard),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Diamante),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel B (Gold),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Standard),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel A (Diamante),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Gold),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Standard),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Diamante),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Gold),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel C (Standard),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Diamante),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Gold),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel C (Standard),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Diamante),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Gold),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel C (Standard),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel A (Diamante),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel B (Gold),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel C (Standard),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel A (Diamante),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Gold),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Standard),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel A (Diamante),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Gold),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Standard),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Diamante),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel B (Gold),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel C (Standard),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel A (Diamante),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel B (Gold),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel C (Standard),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel C (Standard),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel A (Diamante),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel B (Gold),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Standard),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel A (Diamante),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel B (Gold),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Standard),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel A (Diamante),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Gold),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel C (Standard),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Diamante),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Gold),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Standard),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Diamante),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel B (Gold),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Standard),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Diamante),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel B (Gold),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Standard),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Diamante),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel B (Gold),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel C (Standard),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel A (Diamante),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel B (Gold),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel C (Standard),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Diamante),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Gold),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel C (Standard),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Diamante),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Gold),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Standard),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel A (Diamante),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel B (Gold),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel C (Standard),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel A (Diamante),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel B (Gold),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel B (Gold),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel C (Standard),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel A (Diamante),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Gold),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel C (Standard),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel A (Diamante),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Gold),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel C (Standard),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Diamante),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel B (Gold),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Standard),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Diamante),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Gold),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Standard),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel A (Diamante),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Gold),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Standard),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel A (Diamante),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Gold),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Standard),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel A (Diamante),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel B (Gold),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel C (Standard),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel A (Diamante),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel B (Gold),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Standard),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Diamante),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel B (Gold),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Standard),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Diamante),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Gold),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel C (Standard),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel A (Diamante),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel B (Gold),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel C (Standard),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel A (Diamante),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel A (Diamante),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel B (Gold),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel C (Standard),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Diamante),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel B (Gold),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel C (Standard),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Diamante),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel B (Gold),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Standard),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel A (Diamante),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Gold),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Standard),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Diamante),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Gold),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel C (Standard),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Diamante),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Gold),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel C (Standard),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Diamante),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Gold),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel C (Standard),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel A (Diamante),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel B (Gold),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel C (Standard),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel A (Diamante),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Gold),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Standard),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel A (Diamante),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Gold),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Standard),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Diamante),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel B (Gold),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel C (Standard),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel A (Diamante),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel B (Gold),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel C (Standard),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel C (Standard),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel A (Diamante),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel B (Gold),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Standard),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel A (Diamante),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel B (Gold),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Standard),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel A (Diamante),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Gold),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel C (Standard),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Diamante),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Gold),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Standard),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Diamante),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel B (Gold),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Standard),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Diamante),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel B (Gold),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Standard),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Diamante),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel B (Gold),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel C (Standard),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel A (Diamante),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel B (Gold),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel C (Standard),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Diamante),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Gold),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel C (Standard),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Diamante),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Gold),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Standard),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel A (Diamante),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel B (Gold),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel C (Standard),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel A (Diamante),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel B (Gold),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel A (Diamante),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel B (Gold),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel C (Standard),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel A (Diamante),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Gold),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel C (Standard),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel A (Diamante),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Gold),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel C (Standard),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Diamante),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel B (Gold),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Standard),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Diamante),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Gold),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Standard),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel A (Diamante),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Gold),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Standard),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife
+Hospital San José Metepec,Estado de México,Nivel A (Diamante),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,MetLife
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Gold),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,MetLife
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Standard),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,MetLife
+Hospital San Javier,Jalisco,Nivel A (Diamante),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,MetLife
+Hospital Real San José,Jalisco,Nivel B (Gold),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,MetLife
+Hospital Felman,Jalisco,Nivel C (Standard),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,MetLife
+Hospital Bernardette,Jalisco,Nivel A (Diamante),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,MetLife
+Hospital Country 2000,Jalisco,Nivel B (Gold),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,MetLife
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Standard),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,MetLife
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Diamante),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,MetLife
+Hospital San José TecSalud,Nuevo León,Nivel B (Gold),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,MetLife
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Standard),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,MetLife
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Diamante),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,MetLife
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Gold),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,MetLife
+Hospital Ángeles Puebla,Puebla,Nivel C (Standard),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,MetLife
+Hospital UPAEP,Puebla,Nivel A (Diamante),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,MetLife
+Hospital Betania,Puebla,Nivel B (Gold),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,MetLife
+Star Médica Querétaro,Querétaro,Nivel C (Standard),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,MetLife
+Hospital San José Moscati,Querétaro,Nivel A (Diamante),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,MetLife
+Hospital Ángeles León,Guanajuato,Nivel B (Gold),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,MetLife
+Star Médica León,Guanajuato,Nivel C (Standard),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,MetLife
+Hospital Galenia,Quintana Roo,Nivel A (Diamante),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,MetLife
+Hospital Star Médica Mérida,Yucatán,Nivel B (Gold),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,MetLife
+Hospital Ángeles Tijuana,Baja California,Nivel C (Standard),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,MetLife
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Diamante),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,MetLife
+Médica Sur,Ciudad de México,Nivel B (Gold),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,MetLife
+Hospital Español,Ciudad de México,Nivel C (Standard),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,MetLife
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Diamante),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,MetLife
+Hospital Ángeles México,Ciudad de México,Nivel B (Gold),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,MetLife
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Standard),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,MetLife
+Centro Médico Dalinde,Ciudad de México,Nivel A (Diamante),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,MetLife
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Gold),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,MetLife
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Standard),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,MetLife
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Diamante),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,MetLife
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Gold),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,MetLife
+Corporativo Hospital Satélite,Estado de México,Nivel C (Standard),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,MetLife
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Diamante),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,MetLife
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Gold),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,MetLife

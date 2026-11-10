@@ -1,0 +1,502 @@
+﻿Hospital_Nombre,Estado_Ciudad,Nivel_Poliza,Direccion,Telefono,Aseguradora
+Médica Sur,Ciudad de México,Nivel A (Premier),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel B (Óptimo),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Flex),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel A (Premier),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Óptimo),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel C (Flex),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Premier),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Óptimo),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Flex),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Premier),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel B (Óptimo),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Flex),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Premier),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel B (Óptimo),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Flex),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Premier),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel B (Óptimo),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel C (Flex),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel A (Premier),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel B (Óptimo),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel C (Flex),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Premier),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Óptimo),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel C (Flex),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Premier),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Óptimo),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Flex),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel A (Premier),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel B (Óptimo),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel C (Flex),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel A (Premier),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel B (Óptimo),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel B (Óptimo),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel C (Flex),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel A (Premier),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Óptimo),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel C (Flex),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel A (Premier),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Óptimo),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel C (Flex),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Premier),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel B (Óptimo),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Flex),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Premier),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Óptimo),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Flex),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel A (Premier),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Óptimo),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Flex),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel A (Premier),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Óptimo),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Flex),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel A (Premier),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel B (Óptimo),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel C (Flex),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel A (Premier),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel B (Óptimo),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Flex),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Premier),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel B (Óptimo),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Flex),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Premier),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Óptimo),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel C (Flex),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel A (Premier),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel B (Óptimo),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel C (Flex),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel A (Premier),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel A (Premier),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel B (Óptimo),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel C (Flex),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Premier),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel B (Óptimo),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel C (Flex),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Premier),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel B (Óptimo),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Flex),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel A (Premier),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Óptimo),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Flex),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Premier),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Óptimo),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel C (Flex),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Premier),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Óptimo),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel C (Flex),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Premier),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Óptimo),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel C (Flex),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel A (Premier),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel B (Óptimo),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel C (Flex),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel A (Premier),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Óptimo),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Flex),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel A (Premier),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Óptimo),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Flex),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Premier),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel B (Óptimo),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel C (Flex),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel A (Premier),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel B (Óptimo),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel C (Flex),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel C (Flex),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel A (Premier),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel B (Óptimo),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Flex),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel A (Premier),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel B (Óptimo),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Flex),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel A (Premier),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Óptimo),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel C (Flex),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Premier),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Óptimo),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Flex),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Premier),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel B (Óptimo),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Flex),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Premier),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel B (Óptimo),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Flex),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Premier),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel B (Óptimo),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel C (Flex),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel A (Premier),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel B (Óptimo),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel C (Flex),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Premier),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Óptimo),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel C (Flex),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Premier),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Óptimo),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Flex),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel A (Premier),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel B (Óptimo),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel C (Flex),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel A (Premier),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel B (Óptimo),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel B (Óptimo),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel C (Flex),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel A (Premier),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Óptimo),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel C (Flex),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel A (Premier),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Óptimo),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel C (Flex),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Premier),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel B (Óptimo),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Flex),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Premier),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Óptimo),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Flex),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel A (Premier),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Óptimo),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Flex),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel A (Premier),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Óptimo),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Flex),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel A (Premier),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel B (Óptimo),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel C (Flex),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel A (Premier),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel B (Óptimo),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Flex),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Premier),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel B (Óptimo),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Flex),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Premier),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Óptimo),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel C (Flex),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel A (Premier),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel B (Óptimo),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel C (Flex),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel A (Premier),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel A (Premier),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel B (Óptimo),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel C (Flex),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Premier),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel B (Óptimo),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel C (Flex),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Premier),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel B (Óptimo),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Flex),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel A (Premier),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Óptimo),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Flex),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Premier),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Óptimo),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel C (Flex),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Premier),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Óptimo),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel C (Flex),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Premier),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Óptimo),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel C (Flex),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel A (Premier),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel B (Óptimo),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel C (Flex),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel A (Premier),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Óptimo),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Flex),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel A (Premier),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Óptimo),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Flex),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Premier),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel B (Óptimo),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel C (Flex),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel A (Premier),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel B (Óptimo),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel C (Flex),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel C (Flex),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel A (Premier),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel B (Óptimo),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Flex),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel A (Premier),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel B (Óptimo),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Flex),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel A (Premier),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Óptimo),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel C (Flex),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Premier),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Óptimo),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Flex),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Premier),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel B (Óptimo),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Flex),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Premier),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel B (Óptimo),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Flex),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Premier),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel B (Óptimo),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel C (Flex),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel A (Premier),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel B (Óptimo),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel C (Flex),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Premier),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Óptimo),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel C (Flex),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Premier),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Óptimo),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Flex),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel A (Premier),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel B (Óptimo),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel C (Flex),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel A (Premier),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel B (Óptimo),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel B (Óptimo),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel C (Flex),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel A (Premier),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Óptimo),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel C (Flex),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel A (Premier),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Óptimo),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel C (Flex),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Premier),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel B (Óptimo),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Flex),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Premier),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Óptimo),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Flex),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel A (Premier),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Óptimo),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Flex),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel A (Premier),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Óptimo),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Flex),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel A (Premier),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel B (Óptimo),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel C (Flex),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel A (Premier),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel B (Óptimo),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Flex),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Premier),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel B (Óptimo),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Flex),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Premier),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Óptimo),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel C (Flex),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel A (Premier),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel B (Óptimo),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel C (Flex),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel A (Premier),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel A (Premier),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel B (Óptimo),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel C (Flex),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Premier),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel B (Óptimo),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel C (Flex),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Premier),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel B (Óptimo),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Flex),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel A (Premier),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Óptimo),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Flex),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Premier),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Óptimo),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel C (Flex),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Premier),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Óptimo),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel C (Flex),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Premier),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Óptimo),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel C (Flex),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel A (Premier),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel B (Óptimo),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel C (Flex),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel A (Premier),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Óptimo),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Flex),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel A (Premier),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Óptimo),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Flex),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Premier),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel B (Óptimo),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel C (Flex),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel A (Premier),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel B (Óptimo),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel C (Flex),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel C (Flex),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel A (Premier),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel B (Óptimo),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Flex),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel A (Premier),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel B (Óptimo),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Flex),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel A (Premier),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Óptimo),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel C (Flex),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Premier),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Óptimo),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Flex),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Premier),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel B (Óptimo),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Flex),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Premier),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel B (Óptimo),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Flex),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Premier),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel B (Óptimo),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel C (Flex),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel A (Premier),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel B (Óptimo),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel C (Flex),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Premier),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Óptimo),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel C (Flex),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Premier),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Óptimo),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Flex),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel A (Premier),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel B (Óptimo),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel C (Flex),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel A (Premier),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel B (Óptimo),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel B (Óptimo),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel C (Flex),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel A (Premier),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Óptimo),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel C (Flex),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel A (Premier),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Óptimo),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel C (Flex),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Premier),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel B (Óptimo),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Flex),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel A (Premier),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel B (Óptimo),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel C (Flex),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel A (Premier),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel B (Óptimo),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel C (Flex),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel A (Premier),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel B (Óptimo),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel C (Flex),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel A (Premier),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel B (Óptimo),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel C (Flex),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel A (Premier),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel B (Óptimo),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel C (Flex),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel A (Premier),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel B (Óptimo),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel C (Flex),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel A (Premier),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel B (Óptimo),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel C (Flex),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel A (Premier),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel B (Óptimo),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel C (Flex),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel A (Premier),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel A (Premier),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel B (Óptimo),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel C (Flex),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel A (Premier),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel B (Óptimo),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel C (Flex),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel A (Premier),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel B (Óptimo),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel C (Flex),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel A (Premier),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel B (Óptimo),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel C (Flex),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel A (Premier),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel B (Óptimo),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel C (Flex),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel A (Premier),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel B (Óptimo),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel C (Flex),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel A (Premier),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel B (Óptimo),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel C (Flex),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel A (Premier),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel B (Óptimo),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel C (Flex),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel A (Premier),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel B (Óptimo),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel C (Flex),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel A (Premier),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel B (Óptimo),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel C (Flex),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel A (Premier),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel B (Óptimo),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel C (Flex),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel A (Premier),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel B (Óptimo),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel C (Flex),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel B (Óptimo),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel C (Flex),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel A (Premier),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel B (Óptimo),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel C (Flex),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel A (Premier),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel B (Óptimo),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel C (Flex),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel A (Premier),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel B (Óptimo),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel C (Flex),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel A (Premier),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
+Hospital ABC Observatorio,Ciudad de México,Nivel B (Óptimo),"Sur 136 #116, Las Américas, Álvaro Obregón, C.P. 01120",55 5230 8000,AXA
+Hospital ABC Santa Fe,Ciudad de México,Nivel C (Flex),"Av. Carlos Lazo #100, Santa Fe, Álvaro Obregón, C.P. 01210",55 1103 1600,AXA
+Hospital Ángeles Metropolitano,Ciudad de México,Nivel A (Premier),"Tlacotalpan #59, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 1800,AXA
+Corporativo Hospital Satélite,Estado de México,Nivel B (Óptimo),"Circuito Misioneros #5, Cd. Satélite, Naucalpan, C.P. 53100",55 5089 1410,AXA
+Hospital Star Médica Lomas Verdes,Estado de México,Nivel C (Flex),"Av. Lomas Verdes #75, Lomas Verdes 3ª Secc, Naucalpan, C.P. 53125",55 5366 3800,AXA
+Hospital Ángeles Interlomas,Estado de México,Nivel A (Premier),"Paseo de la Herradura #49, Huixquilucan, C.P. 52784",55 5246 5000,AXA
+Hospital San José Metepec,Estado de México,Nivel B (Óptimo),"Leona Vicario #936, La Purísima, Metepec, C.P. 52140",722 277 5000,AXA
+Hospital Las Américas Ecatepec,Estado de México,Nivel C (Flex),"Av. Central Mz. 1, Las Américas, Ecatepec, C.P. 55076",55 5116 2800,AXA
+Hospital Puerta de Hierro Zapopan,Jalisco,Nivel A (Premier),"Paseo de los Virreyes #4510, Puerta de Hierro, Zapopan, C.P. 45116",33 3848 2100,AXA
+Hospital San Javier,Jalisco,Nivel B (Óptimo),"Pablo Neruda #3220, Providencia, Guadalajara, C.P. 44630",33 3669 0222,AXA
+Hospital Real San José,Jalisco,Nivel C (Flex),"Lázaro Cárdenas #4149, La Estancia, Zapopan, C.P. 45030",33 3611 3000,AXA
+Hospital Felman,Jalisco,Nivel A (Premier),"Av. Vallarta #3245, Vallarta Poniente, Guadalajara, C.P. 44110",33 3615 4000,AXA
+Hospital Bernardette,Jalisco,Nivel B (Óptimo),"Agustín Yáñez #2575, Arcos Vallarta, Guadalajara, C.P. 44130",33 3615 0353,AXA
+Hospital Country 2000,Jalisco,Nivel C (Flex),"Fray Antonio Alcalde #1836, Miraflores, Guadalajara, C.P. 44270",33 3819 3400,AXA
+Hospital Ángeles Guadalajara,Jalisco,Nivel A (Premier),"Av. Del Carnero #5000, Pinar de la Calma, Zapopan, C.P. 45080",33 3678 8800,AXA
+Hospital Zambrano Hellion TecSalud,Nuevo León,Nivel B (Óptimo),"Batallón de San Patricio #112, Valle Oriente, San Pedro Garza García, C.P. 66269",81 8888 0000,AXA
+Hospital San José TecSalud,Nuevo León,Nivel C (Flex),"Av. Morones Prieto #3000 Pte., Pibla, Monterrey, C.P. 64710",81 8347 8111,AXA
+Christus Muguerza Hospital Alta Especialidad,Nuevo León,Nivel A (Premier),"Hidalgo #2525 Pte., Obispado, Monterrey, C.P. 64060",81 8122 8122,AXA
+Christus Muguerza Hospital Sur,Nuevo León,Nivel B (Óptimo),"Carretera Nacional #6500, La Estanzuela, Monterrey, C.P. 64988",81 8262 3500,AXA
+Christus Muguerza Hospital Chipinque,Nuevo León,Nivel C (Flex),"Calzada del Valle #400, Del Valle, San Pedro Garza García, C.P. 66220",81 8399 3400,AXA
+Hospital Ángeles Puebla,Puebla,Nivel A (Premier),"Vía Atlixcáyotl #5108, Reserva Territorial Atlixcáyotl, Puebla, C.P. 72190",222 303 6600,AXA
+Hospital UPAEP,Puebla,Nivel B (Óptimo),"19 Poniente #1305, Santiago, Puebla, C.P. 72410",222 229 9400,AXA
+Hospital Betania,Puebla,Nivel C (Flex),"9 Oriente #402, Centro, Puebla, C.P. 72000",222 514 8000,AXA
+Star Médica Querétaro,Querétaro,Nivel A (Premier),"Blvd. Bernardo Quintana #9670, Centro Sur, Santiago de Querétaro, C.P. 76090",442 238 7000,AXA
+Hospital San José Moscati,Querétaro,Nivel B (Óptimo),"Paseo de la República #13001, Jurica, Santiago de Querétaro, C.P. 76127",442 818 0800,AXA
+Hospital Ángeles León,Guanajuato,Nivel C (Flex),"Paseo de los Insurgentes #3008, El Paraíso, León, C.P. 37328",477 788 5000,AXA
+Star Médica León,Guanajuato,Nivel A (Premier),"Paseo de los Insurgentes #1701, Los Paraísos, León, C.P. 37320",477 788 8900,AXA
+Hospital Galenia,Quintana Roo,Nivel B (Óptimo),"Av. Tulum Esq. Nichupté, Mz. 1, Cancún, C.P. 77505",998 891 5200,AXA
+Hospital Star Médica Mérida,Yucatán,Nivel C (Flex),"Calle 26 #199 x 7 y 15, Altabrisa, Mérida, C.P. 97130",999 930 2880,AXA
+Hospital Ángeles Tijuana,Baja California,Nivel A (Premier),"Paseo de los Héroes #10999, Zona Urbana Río Tijuana, C.P. 22010",664 635 1800,AXA
+Hospital CMI Chihuahua,Chihuahua,Nivel B (Óptimo),"Av. Paseo de las Lomas #5701, Lomas del Sol, Chihuahua, C.P. 31124",614 432 2400,AXA
+Médica Sur,Ciudad de México,Nivel C (Flex),"Puente de Piedra #150, Toriello Guerra, Tlalpan, C.P. 14050",55 5424 7200,AXA
+Hospital Español,Ciudad de México,Nivel A (Premier),"Av. Ejército Nacional #613, Granada, Miguel Hidalgo, C.P. 11520",55 5255 9600,AXA
+Hospital Ángeles Pedregal,Ciudad de México,Nivel B (Óptimo),"Camino a Santa Teresa #1055, Héroes de Padierna, C.P. 10700",55 5449 5500,AXA
+Hospital Ángeles México,Ciudad de México,Nivel C (Flex),"Querétaro #204, Roma Norte, Cuauhtémoc, C.P. 06700",55 5615 3232,AXA
+Hospital San Ángel Inn Chapultepec,Ciudad de México,Nivel A (Premier),"Av. Chapultepec #489, Juárez, Cuauhtémoc, C.P. 06600",55 5278 2300,AXA
+Centro Médico Dalinde,Ciudad de México,Nivel B (Óptimo),"Tuxpan #25, Roma Sur, Cuauhtémoc, C.P. 06760",55 5265 2800,AXA
+Hospital Ángeles Acoxpa,Ciudad de México,Nivel C (Flex),"Calzada Acoxpa #430, Ex-Hacienda Coapa, Tlalpan, C.P. 14308",55 5599 7000,AXA
